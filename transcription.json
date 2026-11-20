@@ -1,0 +1,5226 @@
+{
+  "metadata": {
+    "title": "飲病論",
+    "catalogue_title": "飲病論",
+    "alternate_title": "飮病論",
+    "roman_title": "Inbyōron",
+    "author": "石崎淳古（玄素，號朴菴）",
+    "date": "原刊記寶曆四甲戌孟春（1754），江戶叢桂堂梅村宗五郎；館目紀年天明九年（1789）見卷後菱屋孫兵衛廣告。",
+    "location": "日本江戶（原刊）、京都（後附廣告）、立川（現藏）",
+    "repository": "日本國文學研究資料館",
+    "repository_en": "National Institute of Japanese Literature",
+    "collection": "國文學研究資料館藏古典籍",
+    "shelfmark": "049-0280",
+    "catalogue": "https://kokusho.nijl.ac.jp/biblio/200022060",
+    "original_source_doi": "10.20730/200022060",
+    "rights": "https://kokusho.nijl.ac.jp/page/usage-nijl.html",
+    "description": "江戶醫家石崎淳古以漢文辨飲病與中風，列病程及診治敘事。本印本保留 1754 年刊記和 1789 年京都書肆廣告。全冊 38 幅編目，正文、兩序、跋、刊記與廣告分錄。一則小注省錄，草刻序的未定字留方框。",
+    "manifest_url": "https://kokusho.nijl.ac.jp/biblio/200022060/manifest",
+    "manifest_sha256": "a8a61ed77dfe83b110f781a706c4226ee49dd7b85c804b9095dbada1df8f8107",
+    "record_id": "NIJL200022060",
+    "edition": "0.1.0",
+    "catalogue_main_scope": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "version": "0.1.0",
+    "dataset_title": "飲病論（1754 年刊記、1789 年書肆廣告，國文學研究資料館 049-0280） / Inbyōron [Treatise on Inbyō and clinical cases]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/1",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00001.tif/full/full/0/default.jpg",
+      "label": "1",
+      "file": "01.jpg",
+      "sha256": "78df32604b61fc405003bcde3949d2996a49b0dc4eba78ebe49d7266822b7fc2",
+      "bytes": 335391,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "binding-or-copy-annotation",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "書套題簽",
+              "text": "飲病論",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：藏本外套正面。題名下有墨點。尺標及色卡屬數位拍攝輔件。"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/2",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00002.tif/full/full/0/default.jpg",
+      "label": "2",
+      "file": "02.jpg",
+      "sha256": "239e69f477ff329f333197d2efaa2cc848d6a60279c6fc0a19dfbad40bf8fb1d",
+      "bytes": 297901,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "binding-or-copy-annotation",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "原冊前封題簽",
+              "text": "□病論",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "右上舊籤",
+              "text": "NO 560／1",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "NO 560",
+                "1"
+              ]
+            },
+            {
+              "type": "copy-annotation",
+              "location": "右下館籤",
+              "text": "49／280／国文学研究資料館",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "49",
+                "280",
+                "国文学研究資料館"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": null,
+          "context": "原冊前封題簽",
+          "candidates": [],
+          "note": "此處墨跡或構件不清，以□保留未定字。"
+        }
+      ],
+      "observations": "單幅：題簽磨損，「飲」字所在僅餘微小墨痕，末字亦磨損。封面下中央見紅色殘跡，無法辨識有無印文。"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/3",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00003.tif/full/full/0/default.jpg",
+      "label": "3",
+      "file": "03.jpg",
+      "sha256": "5766a59c2f40e0cec14e380022307cb8dae82f9417c5c23d8022cfce3c223c5c",
+      "bytes": 338755,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "preface-and-opening",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "飲病論序"
+            },
+            {
+              "text": "孟子曰有不忍人之心則"
+            },
+            {
+              "text": "有不忍人之政矣醫亦王"
+            },
+            {
+              "text": "政之一端也蓋出於不忍"
+            },
+            {
+              "text": "人之聖心也故其慮必深"
+            },
+            {
+              "text": "矣其憂必切矣古聖遠而"
+            },
+            {
+              "text": "諸家各逞其賢不可無旁"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飲病論序／一",
+              "column_anchor": 7,
+              "color": "unknown",
+              "lines": [
+                "飲病論序",
+                "一"
+              ]
+            },
+            {
+              "type": "seal",
+              "location": "欄外朱方印",
+              "text": "□□文庫",
+              "column_anchor": 7,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 7,
+          "context": "欄外朱方印",
+          "candidates": [],
+          "note": "此處墨跡或構件不清，以□保留未定字。"
+        }
+      ],
+      "observations": "右面：無正文；見背面透墨。 左面：末欄「逞」「其賢」「旁」及上欄「古」以字形、上下文暫讀。朱印原位為左頁右下。"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/4",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00004.tif/full/full/0/default.jpg",
+      "label": "4",
+      "file": "04.jpg",
+      "sha256": "8c11d4392497910e0411315b1f81c17c2aa70898aa3572dc13879e45caa5f9fb",
+      "bytes": 331236,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "preface-and-opening",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "午以類中風者先賢必云"
+            },
+            {
+              "text": "類於中風而不言何病也"
+            },
+            {
+              "text": "愚以多年所歷試言之則"
+            },
+            {
+              "text": "□人仲景氏所謂飲病也"
+            },
+            {
+              "text": "今半身不遂或為腫脹者"
+            },
+            {
+              "text": "依飲病之治方得全效者"
+            },
+            {
+              "text": "多矣不是愚者幸慮之一"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飲病論序／一",
+              "column_anchor": 7,
+              "color": "unknown",
+              "lines": [
+                "飲病論序",
+                "一"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "得耶爰論證與治驗以俟"
+            },
+            {
+              "text": "後之明君云"
+            },
+            {
+              "text": "寶曆三年癸酉冬十月東"
+            },
+            {
+              "text": "都朴菴石崎淳古玄素識"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飲病論序／二",
+              "column_anchor": 4,
+              "color": "unknown",
+              "lines": [
+                "飲病論序",
+                "二"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 4,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 6,
+          "context": "效",
+          "candidates": [],
+          "note": "第4欄首二字候選「古人」。第6欄「效」字近「効」。第7欄「是」「幸」「慮」讀待校。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "是",
+          "candidates": [],
+          "note": "第4欄首二字候選「古人」。第6欄「效」字近「効」。第7欄「是」「幸」「慮」讀待校。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "幸",
+          "candidates": [],
+          "note": "第4欄首二字候選「古人」。第6欄「效」字近「効」。第7欄「是」「幸」「慮」讀待校。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "慮",
+          "candidates": [],
+          "note": "第4欄首二字候選「古人」。第6欄「效」字近「効」。第7欄「是」「幸」「慮」讀待校。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "證",
+          "candidates": [],
+          "note": "第1欄「得／淂」「爰／又」與「證」字有疑；第2欄「君／哲」。"
+        }
+      ],
+      "observations": "右面：第4欄首二字候選「古人」。第6欄「效」字近「効」。第7欄「是」「幸」「慮」讀待校。 左面：第1欄「得／淂」「爰／又」與「證」字有疑；第2欄「君／哲」。"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/5",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00005.tif/full/full/0/default.jpg",
+      "label": "5",
+      "file": "05.jpg",
+      "sha256": "10db38ed7014d0f50449b2e9559871d0c286997bbdb7c0d9d2648b484e6f0ef6",
+      "bytes": 324372,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "preface-and-opening",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飲病論序／二",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "飲病論序",
+                "二"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "飲病論序"
+            },
+            {
+              "text": "醫之經者猶經緯之經於布"
+            },
+            {
+              "text": "帛者機杼之不可偏廢也且經"
+            },
+            {
+              "text": "□之□不可廢矣其大綱右□□可"
+            },
+            {
+              "text": "以經也夫學之不可不學者"
+            },
+            {
+              "text": "是經矣□□然□□經□亘千"
+            },
+            {
+              "text": "古而不可復也方且□□今"
+            },
+            {
+              "text": "而其經而後推考惟是亦經"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "一",
+              "column_anchor": 8,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 4,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        }
+      ],
+      "observations": "右面：欄內僅背頁透墨，不列入本面正文。 左面：草刻連筆嚴重。第2欄「醫／譬」「猶／具」「於」為暫讀。「機杼之不可偏廢」須回圖，並非定字。第4–8欄整體待校，□依可分辨字群定位，字數有約略。"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/6",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00006.tif/full/full/0/default.jpg",
+      "label": "6",
+      "file": "06.jpg",
+      "sha256": "95523fd68aa943daeed2af2cb28e60cc52a373f02e4b4e0a3a0a27f47f8165bf",
+      "bytes": 358148,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "preface-and-opening",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "者固自有焉也豈徒置之然矣"
+            },
+            {
+              "text": "□□一時有權變幻□□之妙"
+            },
+            {
+              "text": "也焉但錄之以垂天下後之有"
+            },
+            {
+              "text": "合而可驗言有一者□守古者至"
+            },
+            {
+              "text": "于今其□□古者未必知□□"
+            },
+            {
+              "text": "□□奪□□存古人之偽也竟"
+            },
+            {
+              "text": "一□之後而□近十年□切云"
+            },
+            {
+              "text": "□□乎□□□然吾亦□"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "一",
+              "column_anchor": 8,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "而己操劑有療其□□乎曰"
+            },
+            {
+              "text": "經□□然獨足醫巧耳□經矣"
+            },
+            {
+              "text": "雖是□學□而學□未達莫信"
+            },
+            {
+              "text": "□□執□□拙于治方而不□治"
+            },
+            {
+              "text": "可□據□□□□□言之而安乎"
+            },
+            {
+              "text": "方者自是一□學迷時以為便捷"
+            },
+            {
+              "text": "□□曰其□□治人命□□一"
+            },
+            {
+              "text": "□□□□□□□□□□□□□□□□"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "二",
+              "column_anchor": 8,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 2,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 4,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 5,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 6,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 8,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 2,
+          "context": "權變",
+          "candidates": [],
+          "note": "全面草體。候選處「權變」「以垂天下」「古」「十年」有上下文支持，仍待重讀。□標連筆未解，字數約略。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "以垂天下",
+          "candidates": [],
+          "note": "全面草體。候選處「權變」「以垂天下」「古」「十年」有上下文支持，仍待重讀。□標連筆未解，字數約略。"
+        },
+        {
+          "side": "right",
+          "column": null,
+          "context": "古",
+          "candidates": [],
+          "note": "全面草體。候選處「權變」「以垂天下」「古」「十年」有上下文支持，仍待重讀。□標連筆未解，字數約略。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "十年",
+          "candidates": [],
+          "note": "全面草體。候選處「權變」「以垂天下」「古」「十年」有上下文支持，仍待重讀。□標連筆未解，字數約略。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "",
+          "candidates": [],
+          "note": "末欄連筆重，保留欄位待校。第1欄「而已／而己」，其餘通欄候選皆待原圖核。"
+        }
+      ],
+      "observations": "右面：全面草體。候選處「權變」「以垂天下」「古」「十年」有上下文支持，仍待重讀。□標連筆未解，字數約略。 左面：末欄連筆重，保留欄位待校。第1欄「而已／而己」，其餘通欄候選皆待原圖核。"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/7",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00007.tif/full/full/0/default.jpg",
+      "label": "7",
+      "file": "07.jpg",
+      "sha256": "5838abb0b7de48b84d17f6c74d0100ddf160675e2ffca2f8af87d9a713612273",
+      "bytes": 357929,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "preface-and-opening",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "□而乃以是學乎佛而已與世之醫"
+            },
+            {
+              "text": "士大夫縉紳先生挽袖操紙"
+            },
+            {
+              "text": "之徒抱痛□□□□□□□□"
+            },
+            {
+              "text": "叩經之□□□□□經□□於"
+            },
+            {
+              "text": "□□其長短況乎一度坐死再倣"
+            },
+            {
+              "text": "□□其道而況乎□□□□□□"
+            },
+            {
+              "text": "其文章而無當跋返乎□□□□"
+            },
+            {
+              "text": "如不學經而學切于是教乎□"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "二",
+              "column_anchor": 8,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "古而於時久余之說□□之勸"
+            },
+            {
+              "text": "于學及未能讀論一□□彼傳□"
+            },
+            {
+              "text": "之徒□□鉗口然吾不以為然者"
+            },
+            {
+              "text": "夫言飲以□□猶□□□□"
+            },
+            {
+              "text": "學經之治其病變□□□□"
+            },
+            {
+              "text": "□□所考進試之□□以述其說"
+            },
+            {
+              "text": "可經取而□□未有能□□□□"
+            },
+            {
+              "text": "是守株故而無新□□□□□□□□"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "三",
+              "column_anchor": 8,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 1,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 4,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 5,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 6,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 8,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 1,
+          "context": "佛",
+          "candidates": [],
+          "note": "草刻。第1欄「佛」與「醫」及第2欄「縉紳」「挽袖」候選。第5欄「再倣／再傍」。餘連筆處整欄待校。"
+        },
+        {
+          "side": "right",
+          "column": 1,
+          "context": "醫",
+          "candidates": [],
+          "note": "草刻。第1欄「佛」與「醫」及第2欄「縉紳」「挽袖」候選。第5欄「再倣／再傍」。餘連筆處整欄待校。"
+        },
+        {
+          "side": "right",
+          "column": 2,
+          "context": "縉紳",
+          "candidates": [],
+          "note": "草刻。第1欄「佛」與「醫」及第2欄「縉紳」「挽袖」候選。第5欄「再倣／再傍」。餘連筆處整欄待校。"
+        },
+        {
+          "side": "right",
+          "column": 2,
+          "context": "挽袖",
+          "candidates": [],
+          "note": "草刻。第1欄「佛」與「醫」及第2欄「縉紳」「挽袖」候選。第5欄「再倣／再傍」。餘連筆處整欄待校。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "鉗",
+          "candidates": [],
+          "note": "經學論辨草刻；除可定位字外大段難分。第3欄「鉗」候選，第5欄「病變」待校。方框為可約略辨識的未定字群。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "病變",
+          "candidates": [],
+          "note": "經學論辨草刻；除可定位字外大段難分。第3欄「鉗」候選，第5欄「病變」待校。方框為可約略辨識的未定字群。"
+        }
+      ],
+      "observations": "右面：草刻。第1欄「佛」與「醫」及第2欄「縉紳」「挽袖」候選。第5欄「再倣／再傍」。餘連筆處整欄待校。 左面：經學論辨草刻；除可定位字外大段難分。第3欄「鉗」候選，第5欄「病變」待校。方框為可約略辨識的未定字群。"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/8",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00008.tif/full/full/0/default.jpg",
+      "label": "8",
+      "file": "08.jpg",
+      "sha256": "cc374c9658fa4f59b763c3e673a26feae6178745b4ddded010ae0c13e326e48e",
+      "bytes": 362819,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "preface-and-opening",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "延年彼偏病者吾仍摭序云"
+            },
+            {
+              "text": "寶曆四甲戌冬十月"
+            },
+            {
+              "text": "鹿門"
+            },
+            {
+              "text": "望三英"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "三",
+              "column_anchor": 4,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "飲病論"
+            },
+            {
+              "text": "朴菴石崎淳古玄素著"
+            },
+            {
+              "text": "以余觀之世稱類中風者仲景氏所謂飲病也仲景金匱"
+            },
+            {
+              "text": "要略舉四飲六證詳論之其書詞簡而不易通曉也飲病"
+            },
+            {
+              "text": "之主方逈出人意之表然其論稍似有所遺者但意味深"
+            },
+            {
+              "text": "長寓之不言中非後世之所能及也余累月積年用心手"
+            },
+            {
+              "text": "飲病也久矣久而似其惑稍解者經曰法於往古驗於來"
+            },
+            {
+              "text": "今是之謂歟金匱要略曰有痰飲有懸飲有溢飲有支飲"
+            },
+            {
+              "text": "又曰有留飲有伏飲也此六飲者謹考之靈素脈要精微"
+            },
+            {
+              "text": "論曰溢飲者渴暴多飲而易入肌皮腸胃之外也"
+            },
+            {
+              "text": "以此察之則四飲六證之中止溢飲一證病變最多端而"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "正文第10欄末雙行小字",
+              "text": "易甲乙／經作溢",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "易甲乙",
+                "經作溢"
+              ]
+            },
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飲病論／一／叢桂堂梓",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "飲病論",
+                "一",
+                "叢桂堂梓"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 5,
+          "context": "逈",
+          "candidates": [],
+          "note": "第5欄「逈」圖右上筆細，候選迥。正文另遍有日文片假名訓點及一二、上下、レ形返點。未逐字落點。"
+        }
+      ],
+      "observations": "右面：草書序末；右一第二至末字多處草寫，尤「延／延年」「摭／撰」「云／之」需回圖。署名兩行可能同欄空隔。 左面：第5欄「逈」圖右上筆細，候選迥。正文另遍有日文片假名訓點及一二、上下、レ形返點。未逐字落點。"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/9",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00009.tif/full/full/0/default.jpg",
+      "label": "9",
+      "file": "09.jpg",
+      "sha256": "24ca1f4c175e364ab5a6e094e1c53a5083f8ed699a38a18ef0f021ff9cb641d9",
+      "bytes": 418803,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "至其變雖仲景不盡言之可推而會其意而已經曰飲入"
+            },
+            {
+              "text": "於胃游溢精氣上輸於脾脾氣散精上歸於肺通調水道"
+            },
+            {
+              "text": "下輸膀胱水精四布而五經並行此論水道之常也亦經"
+            },
+            {
+              "text": "曰渴暴多飲而易入肌皮腸胃之外也此論氾溢妄行之"
+            },
+            {
+              "text": "變也仲景氏所謂四飲六證是也唐宋以來方書以飲病"
+            },
+            {
+              "text": "通謂痰名狀未詳也余以數年所歷試者論焉先賢所詳"
+            },
+            {
+              "text": "論者今不贅之夫筋骨隆盛肌肉滿壯者力能足舉重日"
+            },
+            {
+              "text": "遠行不倦年逾四旬腎氣衰後肌肉自然減少身體益輕"
+            },
+            {
+              "text": "體不疲勞起居常安而終天年者眞壯者也亦形肥盛者"
+            },
+            {
+              "text": "力不能舉重身體重而不能遠行欲與壯者疾行則氣急"
+            },
+            {
+              "text": "身體急隋彼壯者既逸百步之外此未至五十步蓋壯者"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飲病論／一／叢桂堂梓",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "飲病論",
+                "一",
+                "叢桂堂梓"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "同日之談哉或壯歲時視之如無病者年逾四旬或五十"
+            },
+            {
+              "text": "有餘而肌肉不減少而濯々然肥盛此非津液充滿者所"
+            },
+            {
+              "text": "謂溢飲者也仲景曰色鮮明者有留飲是也溢飲積留于"
+            },
+            {
+              "text": "腸胃之外年四十五十而不去則或病腫脹或病痺不仁"
+            },
+            {
+              "text": "或病半身不遂口眼喎斜也是故世俗相傳肥胖者多為"
+            },
+            {
+              "text": "中風半身不遂疾預防之可也是人之所視也或問曰肥"
+            },
+            {
+              "text": "盛者身體重而欲行則氣急而不能行者溢飲而非肌肉"
+            },
+            {
+              "text": "滿壯者或為腫或為痺不仁或為半身不遂等疾也聞吾"
+            },
+            {
+              "text": "子說其因始粲然而其形狀未詳之可得聞乎曰渴暴多"
+            },
+            {
+              "text": "飲溢入於肌皮腸胃之外久而不去則為痺衛氣不行則"
+            },
+            {
+              "text": "為不仁其入深內居於榮衛壯歲時榮衛盛而能流行故"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飲病論／二／叢桂堂梓",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "飲病論",
+                "二",
+                "叢桂堂梓"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 11,
+          "context": "隋",
+          "candidates": [],
+          "note": "第11欄「隋」右部不清，候選「墮」。逐字訓點待另層錄。"
+        }
+      ],
+      "observations": "右面：第11欄「隋」右部不清，候選「墮」。逐字訓點待另層錄。 左面：第2欄濯後刻同字重讀點，記為々；同頁多列可見片假名訓點及返點。第3欄末「于」圖似平頭二橫帶鉤。"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/10",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00010.tif/full/full/0/default.jpg",
+      "label": "10",
+      "file": "10.jpg",
+      "sha256": "212544c4c79cd2a92d21ace800ff53779c61f05668f232971aa6181efe7d6f3f",
+      "bytes": 424863,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "如無病者年逾四旬腎氣衰後榮衛稍微三焦不能御飲"
+            },
+            {
+              "text": "邪獨留而不去則為半身不遂口眼喎斜也其邪入益深"
+            },
+            {
+              "text": "走於腸間則為腫脹也血絡篇曰其不新飲者身中有水"
+            },
+            {
+              "text": "久則為腫是也或亦問曰肥盛者年逾四旬後病腫脹者"
+            },
+            {
+              "text": "親視之故以吾子之說為信也金匱水氣病篇有五水七"
+            },
+            {
+              "text": "證痰飲病篇又有四飲六證今飲病之腫與水病之腫何"
+            },
+            {
+              "text": "以別之哉答曰到洪腫則形狀相同而不相分也痰飲病"
+            },
+            {
+              "text": "篇之四飲六證與水氣病篇之五水七證其因不同脈證"
+            },
+            {
+              "text": "亦異詳于金匱飲病之候其脈沉弦沉緊急弦偏弦弦數"
+            },
+            {
+              "text": "弦緊伏也水病之候其脈沉緊浮洪沉滑浮緊沉遲也痰"
+            },
+            {
+              "text": "飲病篇有五臟之水水氣病篇亦有五臟之水也痰飲病"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飲病論／二／叢桂堂梓",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "飲病論",
+                "二",
+                "叢桂堂梓"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "篇曰水在心曰水在肺曰水在脾曰水在肝曰水在腎亦"
+            },
+            {
+              "text": "水氣病篇曰心水曰肝水曰肺水曰腎水曰脾水其於痰"
+            },
+            {
+              "text": "飲病篇也曰水在五臟其於水氣病篇也曰五臟之水其"
+            },
+            {
+              "text": "外證亦異也溢飲者飲水溢入於肌皮腸胃之外不去則"
+            },
+            {
+              "text": "為留飲留飲久而走入於腸間變為腫也亦水氣病水直"
+            },
+            {
+              "text": "在腸胃宿水是也故金匱曰結在關元又曰血為水或外"
+            },
+            {
+              "text": "感水濕之氣發腫者水病類也非溢飲矣五癃津液別篇"
+            },
+            {
+              "text": "曰水溢則為水脹所謂溢飲也是以仲景論飲也不言飲"
+            },
+            {
+              "text": "而謂之水也飲病與水病不可同日而論治方亦異也飲"
+            },
+            {
+              "text": "病主方十棗湯甘遂半夏湯青龍湯木防己湯澤瀉湯己"
+            },
+            {
+              "text": "椒藶黃丸五苓散等也水病主方防己茯苓湯越婢湯甘"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飲病論／三／叢桂堂梓",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "飲病論",
+                "三",
+                "叢桂堂梓"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 7,
+          "context": "癃",
+          "candidates": [],
+          "note": "第7欄「癃」待核。逐字訓點另層待點。"
+        }
+      ],
+      "observations": "右面：逐字訓點另層待點。 左面：第7欄「癃」待核。逐字訓點另層待點。"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/11",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00011.tif/full/full/0/default.jpg",
+      "label": "11",
+      "file": "11.jpg",
+      "sha256": "2dcf188b817e1eea2d82c674a15e85a86cf079f015de1548ab5f324340463bcd",
+      "bytes": 422402,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "草麻黃湯麻黃附子湯也唐宋以下方書飲腫與水腫混"
+            },
+            {
+              "text": "雜而治方不相分今習之而令人就於死地者仲景氏罪"
+            },
+            {
+              "text": "人也或曰金匱曰問曰病者苦水面目身躰四肢皆腫小"
+            },
+            {
+              "text": "便不利脈之不言水又言胸中痛氣上衝咽狀如炙肉當"
+            },
+            {
+              "text": "微欬喘審如師言其脈何類師曰寸口脈沉而緊沉為水"
+            },
+            {
+              "text": "緊為寒沉緊相搏結在關元始時當微年盛不覺陽衰之"
+            },
+            {
+              "text": "後榮衛相干陽損陰盛結寒微動腎氣上衝喉咽塞噎脇"
+            },
+            {
+              "text": "下急痛醫以為留飲而大下之氣擊不去其病不除後重"
+            },
+            {
+              "text": "吐之胃家虛煩咽燥欲飲水小便不利水穀不化面目手"
+            },
+            {
+              "text": "足浮腫又與葶藶丸下水當時如小差食飲過度腫復如"
+            },
+            {
+              "text": "前胸脇苦痛象若奔豚其水揚溢則浮欬喘逆當先攻擊"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飲病論／三／叢桂堂梓",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "飲病論",
+                "三",
+                "叢桂堂梓"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "衝氣令止乃治欬欬止其喘自差先治新病病當在後是"
+            },
+            {
+              "text": "以察之吾子所謂留飲腫難信用也答曰金匱所謂水寒"
+            },
+            {
+              "text": "結在關元者此經所謂積水也飲水溢入於肌皮腸胃之"
+            },
+            {
+              "text": "外而留不去謂之留飲留飲年盛不覺之腎氣衰後留飲"
+            },
+            {
+              "text": "欲去走入於腸間變為腫又所在關元結寒水動時為腫"
+            },
+            {
+              "text": "年盛不覺之陽衰後腎氣上衝寒水微動始知之矣此以"
+            },
+            {
+              "text": "庸工以積水為留飲而誤治焉故仲景戒之矣是非留飲"
+            },
+            {
+              "text": "謂不為腫治積水以留飲之治方故正之也此證金匱有"
+            },
+            {
+              "text": "論而無方余多年歷試之依賁豚之治方間有得效者方"
+            },
+            {
+              "text": "桂枝加桂湯或桂苓术甘湯也尚俟來哲余稱飲腫者以所"
+            },
+            {
+              "text": "親視者試言之"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飲病論／四／叢桂堂梓",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "飲病論",
+                "四",
+                "叢桂堂梓"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第8欄「擊」需放大辨右部。「欬」現字形兩見，後校可比。 左面：左 9「賁」與右 11「奔」字形有別，留待校。通頁片假名訓點及返點待另層。"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/12",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00012.tif/full/full/0/default.jpg",
+      "label": "12",
+      "file": "12.jpg",
+      "sha256": "76436ddfb9d763ca090addfd9986ef9888ab29ab4916d35ed7d85da0a65b4eda",
+      "bytes": 428607,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "男子形素肥盛年五十有餘而肌肉不減遠行則足懈"
+            },
+            {
+              "text": "急或酸痛仲秋至孟冬小水頻數少睡一夜心下惕然悸"
+            },
+            {
+              "text": "診其脈甚急弦也至此時小水快利半時脈"
+            },
+            {
+              "text": "復如故又經旬日心下悸脈亦急弦而小水快利如此三"
+            },
+            {
+              "text": "次至季冬始發胕腫足膝及面目腹脹"
+            },
+            {
+              "text": "滿而小水不通也治之小水快利其腫"
+            },
+            {
+              "text": "雖減大半復水而死也如此病者所親視者十有餘人也"
+            },
+            {
+              "text": "余先不知病因束手而見斃而已亦肥盛而病腫脹者不"
+            },
+            {
+              "text": "視其始而視其終不可舉數也形肥盛者年逾四旬或逾"
+            },
+            {
+              "text": "五旬後病飲腫者其始發時防漸去微則庶幾猶全十之"
+            },
+            {
+              "text": "七八歟至洪腫俞扁之技亦無如之何矣"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "正文第1欄欄首",
+              "text": "○",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "正文第3欄欄首雙行小字",
+              "text": "要畧曰水在／腎則心下悸",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "要畧曰水在",
+                "腎則心下悸"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "正文第5欄中段雙行小字",
+              "text": "水熱穴論曰胕腫／者聚水而生病也",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "水熱穴論曰胕腫",
+                "者聚水而生病也"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "正文第6欄中段雙行小字",
+              "text": "調經篇曰形有餘／則腹脹涇溲不利",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "調經篇曰形有餘",
+                "則腹脹涇溲不利"
+              ]
+            },
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飲病論／四／叢桂堂梓",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "飲病論",
+                "四",
+                "叢桂堂梓"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "婦人年二十有餘形至肥盛小水澁而經水又不調也"
+            },
+            {
+              "text": "愚意是飲病也故投之以利水之劑用之三月而覺小水"
+            },
+            {
+              "text": "快利而後大惡寒甚發熱狀如瘧三日而熱退如故又經"
+            },
+            {
+              "text": "旬日發寒熱三日止而后發胕腫亦經旬日發寒熱三日"
+            },
+            {
+              "text": "而止腫益甚手足面目腹脹滿利水之劑數服全愈也愚"
+            },
+            {
+              "text": "按其始治之以利水劑肥盛者當瘦却發腫至脹滿是消"
+            },
+            {
+              "text": "飲之藥多服而津液與飲水相分飲水獨浮表為腫其發"
+            },
+            {
+              "text": "寒熱者此邪正相離兆也此人雖有溢飲壯歲而不覺之"
+            },
+            {
+              "text": "今以外提滲利之藥劑強治之故邪正相離時發寒熱而"
+            },
+            {
+              "text": "為腫脹者也溢飲肥盛者壯歲時強而欲除之滲利之藥"
+            },
+            {
+              "text": "劑多服時發寒熱為腫滿而后當除其飲矣吾徒察焉"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "正文第1欄欄首",
+              "text": "○",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飲病論／五／叢桂堂梓",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "飲病論",
+                "五",
+                "叢桂堂梓"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第1欄末懈或解；第2欄「惕」或「愓」；第4欄「旬」日；小字據右支優先記原欄兩列。全頁訓點待另層。 左面：第1欄「澁」右部似重疊止。第4、11欄用「后」；第3欄用「後」。全頁訓點待另層。"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/13",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00013.tif/full/full/0/default.jpg",
+      "label": "13",
+      "file": "13.jpg",
+      "sha256": "182bee263066261f9ac2e598d3df22173ac2d954300f76382ce8b4f35cb206b2",
+      "bytes": 423763,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "○男子年五十有餘素肥盛二三年以來肌肉半減"
+            },
+            {
+              "text": "而後面部至足有微水氣睡臥則驚"
+            },
+            {
+              "text": "而喘臥胸痛"
+            },
+            {
+              "text": "大便利後喘止復舊診其脈右獨弦也知"
+            },
+            {
+              "text": "為飲病投之九味半夏湯兼以腎氣丸全愈此人飲水溢"
+            },
+            {
+              "text": "在肌皮腸胃之外壯歲時不覺之今腎氣衰榮衛微而飲"
+            },
+            {
+              "text": "邪走於內在腸間已發是洪腫之兆也防其微去飲水而"
+            },
+            {
+              "text": "全愈"
+            },
+            {
+              "text": "○男子年五十有餘肌肉良肥者孟秋患欬嗽旬日止後"
+            },
+            {
+              "text": "氣微急也一日小水大通氣急甚半時而止每小水通覺"
+            },
+            {
+              "text": "氣急其脈右獨弦也用小青龍湯全愈"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "第1欄至第2欄小字",
+              "text": "要畧曰素盛今瘦",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "第2欄至第3欄小字",
+              "text": "評熱論曰諸水病者故不得臥臥則驚",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "第3欄「而喘」後小字",
+              "text": "逆調論曰夫不得臥臥則喘是水氣之客也",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "第3欄至第4欄小字",
+              "text": "脈解篇曰所謂胸痛少氣水氣在藏府也",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "第4欄「也」後小字",
+              "text": "金匱曰脈偏弦者飲也",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "六",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心下方",
+              "text": "翫杏堂梓",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "○男子年五十有餘卒然發喘其脈弦數手足面部有微"
+            },
+            {
+              "text": "水氣用小青龍湯喘止後用九味半夏湯兼以腎氣丸五"
+            },
+            {
+              "text": "旬日愈庸工不知病因誤投藥治一違則發腫腹脹滿而"
+            },
+            {
+              "text": "至胸膈則為不治之證也"
+            },
+            {
+              "text": "○男子素肥盛年四十有餘發腫面部四肢及腹脹滿經"
+            },
+            {
+              "text": "三十日而陰囊陰莖俱腫小水短赤中有濁其色猶蘇木"
+            },
+            {
+              "text": "煎汁投滑石晝夜計之漸二三勺也衆醫是為必死也余"
+            },
+            {
+              "text": "診其脈微弦也雖不知其始素肥盛今患腫滿以此知為"
+            },
+            {
+              "text": "飲病而投之以青龍湯其腫減大半而臍下至臍傍築"
+            },
+            {
+              "text": "然有動氣是責脈之微者也兼以桂苓朮甘湯經一旬而"
+            },
+            {
+              "text": "全愈也或曰今患腫脹者腹脹肢滿及陰囊陰莖俱腫者"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "七",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 7,
+          "context": "洪",
+          "candidates": [],
+          "note": "欄內返點與小片假名未逐符編。小字按大字中的位置分標；實際各為兩細行。第七欄「洪」待核。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "勺",
+          "candidates": [],
+          "note": "欄內返點與小片假名未逐符編。第七欄「勺」、第十欄「責」疑讀。刻本左邊部分貼近頁緣。"
+        },
+        {
+          "side": "left",
+          "column": 10,
+          "context": "責",
+          "candidates": [],
+          "note": "欄內返點與小片假名未逐符編。第七欄「勺」、第十欄「責」疑讀。刻本左邊部分貼近頁緣。"
+        }
+      ],
+      "observations": "右面：欄內返點與小片假名未逐符編。小字按大字中的位置分標；實際各為兩細行。第七欄「洪」待核。 左面：欄內返點與小片假名未逐符編。第七欄「勺」、第十欄「責」疑讀。刻本左邊部分貼近頁緣。"
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/14",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00014.tif/full/full/0/default.jpg",
+      "label": "14",
+      "file": "14.jpg",
+      "sha256": "8aa445a11a254f83bd490e6538c37c7cf29b254f343ffdeafcf633b8d44d620d",
+      "bytes": 434955,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "脾腎虛之腫滿也赤水玄珠所載壯原湯者脾腎虛腫脹"
+            },
+            {
+              "text": "之主藥也今不用壯原湯等藥劑而用青龍湯發表之藥"
+            },
+            {
+              "text": "劑者違先哲之意何哉答曰汝視傷寒論未視金匱要略"
+            },
+            {
+              "text": "歟夫青龍湯者在傷寒家投之熱中則出汗令邪發表譬"
+            },
+            {
+              "text": "如龍得陽氣而飛揚油然作雲沛然下雨亦在飲家而投"
+            },
+            {
+              "text": "之水病治飲者譬如龍潛於深淵去污濁其水清澄而自"
+            },
+            {
+              "text": "然流行也蓋飲腫有新古飲水溢入於肌皮腸胃之外而"
+            },
+            {
+              "text": "不經日有發腫者亦經年月而有發腫者也唐宋以下方"
+            },
+            {
+              "text": "書水腫與飲腫不相分而立論則以金匱要略水氣病篇"
+            },
+            {
+              "text": "論之用方則以痰飲病篇之方者論與方齟齬是所以不"
+            },
+            {
+              "text": "知飲腫也見內經篇中水字或腫字誤與水氣病篇合論"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "七",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心下方",
+              "text": "翫杏堂梓",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "者多或曰內經論諸水氣皆諸臟本論也是金匱痰飲病"
+            },
+            {
+              "text": "篇所以不必解也視患腫脹者誤為脾腎虛之說矣蓋大"
+            },
+            {
+              "text": "病後及元氣虛脫脾腎敗壞而四肢發胕腫者必死論"
+            },
+            {
+              "text": "之無方也余所謂腫脹病者其因飲而壯歲時不覺之五"
+            },
+            {
+              "text": "入四十後腎氣衰榮衛微而三焦不能御閉塞而為腫脹"
+            },
+            {
+              "text": "也當此時欲補腎則腫滿急也經曰急則治其標以此飲"
+            },
+            {
+              "text": "水減大半後補腎則無漬水患得全效者也今有治腫病"
+            },
+            {
+              "text": "者其方以菽麥代米令之食藥物細吹咀而不使之知而"
+            },
+            {
+              "text": "為禁方也彼溢飲不日而為腫脹者雖能治留飲經年月"
+            },
+            {
+              "text": "為腫脹者不能全治小水雖一快利復水而死者多彼知"
+            },
+            {
+              "text": "藥未知病也自曰吾治腫病而已不言他也"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "第11欄末小字",
+              "text": "壯原湯者孫壹生本乎桂",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "八",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 5,
+          "context": "御",
+          "candidates": [],
+          "note": "欄內返點與小片假名未逐符編。第四欄末至第五欄首「五入」待核，第五欄「御」及第七欄「漬」待核，第八欄「菽」「吹」維持暫讀。末欄小字接下幅首欄。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "漬",
+          "candidates": [],
+          "note": "欄內返點與小片假名未逐符編。第四欄末至第五欄首「五入」待核，第五欄「御」及第七欄「漬」待核，第八欄「菽」「吹」維持暫讀。末欄小字接下幅首欄。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "菽",
+          "candidates": [],
+          "note": "欄內返點與小片假名未逐符編。第四欄末至第五欄首「五入」待核，第五欄「御」及第七欄「漬」待核，第八欄「菽」「吹」維持暫讀。末欄小字接下幅首欄。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "吹",
+          "candidates": [],
+          "note": "欄內返點與小片假名未逐符編。第四欄末至第五欄首「五入」待核，第五欄「御」及第七欄「漬」待核，第八欄「菽」「吹」維持暫讀。末欄小字接下幅首欄。"
+        }
+      ],
+      "observations": "右面：欄內返點與小片假名未逐符編。第十欄「齟齬」依刊形。 左面：欄內返點與小片假名未逐符編。第四欄末至第五欄首「五入」待核，第五欄「御」及第七欄「漬」待核，第八欄「菽」「吹」維持暫讀。末欄小字接下幅首欄。"
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/15",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00015.tif/full/full/0/default.jpg",
+      "label": "15",
+      "file": "15.jpg",
+      "sha256": "b6224f8098acd18ec4596d5191f052340634713be935cda6f2e93e152f3c6ab3",
+      "bytes": 430924,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "○男子年四十有五素肥盛忽發癰腫背骨五椎至枕骨"
+            },
+            {
+              "text": "長尺餘下徑五寸潰敗為膿大椎至髮際色紫黑不為膿"
+            },
+            {
+              "text": "亦至枕骨徑三寸潰敗為膿而發胕腫面部手足及腹脹"
+            },
+            {
+              "text": "滿陰囊陰莖俱腫氣急小水不通食日減仲冬至孟春腫"
+            },
+            {
+              "text": "脹益盛食已絕精神恍惚而不識人事也衆醫束手告期"
+            },
+            {
+              "text": "矣余診之其脈微弦而膿水存生色故投之九味半夏湯"
+            },
+            {
+              "text": "加人參白朮當歸肉桂防風黃芪用之三日而食進旬日"
+            },
+            {
+              "text": "小水快利其腫減大半而膿水已盡後臍下至臍傍有微"
+            },
+            {
+              "text": "動氣是腎積也故倍加肉桂茯苓白朮加芍藥用之三十"
+            },
+            {
+              "text": "日而全愈也是癰腫屬飲家者也論見下"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "首欄小字",
+              "text": "苓朮甘湯制飲",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "飮病論",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "八",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心下方",
+              "text": "翫杏堂梓",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "○男子年十有八仲秋患欬嗽吐涎沫寒熱往來有盜汗"
+            },
+            {
+              "text": "經三十日而四肢及小腹發腫小水不通氣急不得臥食"
+            },
+            {
+              "text": "日減少經五旬日而絕穀三日精神恍惚也俗言之虛欬"
+            },
+            {
+              "text": "醫亦告期而無投藥者余診其脈弦數所吐涎沫有膿水"
+            },
+            {
+              "text": "臭氣問之曰胸膈及肺經有痛哉答曰無疼痛於是乎雖"
+            },
+            {
+              "text": "疑似未決涎沫中有膿水者是癰膿也其證腫滿欬嗽喘"
+            },
+            {
+              "text": "呼經曰腎者至陰也至陰者盛水也肺者太陰也少陰者"
+            },
+            {
+              "text": "冬脈也故其本在腎其末在肺皆積水也帝曰腎何以能"
+            },
+            {
+              "text": "聚水而生病岐伯曰腎者胃之關也關門不利故聚水而"
+            },
+            {
+              "text": "從其類也上下溢於皮膚故為胕腫大腹上為喘呼不能"
+            },
+            {
+              "text": "臥者標本俱病故肺為喘呼腎為水腫肺逆不能臥今察"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "九",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": null,
+          "context": "椎",
+          "candidates": [],
+          "note": "第一大欄前只有雙行小字，接前幅左面。欄內返點與小片假名未逐符編。「椎」兩見形近「推」；第六欄「存」、第七欄「芪」待核。"
+        },
+        {
+          "side": "right",
+          "column": 6,
+          "context": "存",
+          "candidates": [],
+          "note": "第一大欄前只有雙行小字，接前幅左面。欄內返點與小片假名未逐符編。「椎」兩見形近「推」；第六欄「存」、第七欄「芪」待核。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "芪",
+          "candidates": [],
+          "note": "第一大欄前只有雙行小字，接前幅左面。欄內返點與小片假名未逐符編。「椎」兩見形近「推」；第六欄「存」、第七欄「芪」待核。"
+        }
+      ],
+      "observations": "右面：第一大欄前只有雙行小字，接前幅左面。欄內返點與小片假名未逐符編。「椎」兩見形近「推」；第六欄「存」、第七欄「芪」待核。 左面：欄內返點與小片假名未逐符編。末欄「標本俱病」下文接次幅。"
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/16",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00016.tif/full/full/0/default.jpg",
+      "label": "16",
+      "file": "16.jpg",
+      "sha256": "2292658c966351951f587990ddb9605d3363b8617db667e900e653471ba7eb3e",
+      "bytes": 434310,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "之其本在腎其末在肺也故投之以九味半夏湯加黃芪"
+            },
+            {
+              "text": "桔梗用之一日寒熱止三日食進五日小水快利二十日"
+            },
+            {
+              "text": "而雖諸證悉除筋縮足不伸不能起於床也經曰肝者食"
+            },
+            {
+              "text": "甘而緩之故用四物湯二十日而起居如常全愈"
+            },
+            {
+              "text": "○男子年四十有餘形良肥者患手足疼痛二年百方不"
+            },
+            {
+              "text": "應至季春欬嗽吐涎沫食日減少欲絕穀胃經右不容至"
+            },
+            {
+              "text": "天樞疼所吐者似膿水有臭氣診其脈微弦也醫俗以為"
+            },
+            {
+              "text": "危證矣余投之九味半夏湯一月而全愈也此雖其證異"
+            },
+            {
+              "text": "今記於茲者金匱言咳嗽治屬飲家者是也不知病因誤"
+            },
+            {
+              "text": "投藥則令治不治也"
+            },
+            {
+              "text": "或曰形肥盛者年踰四旬後患腫脹者聞吾子說知其因"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "九",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心下方",
+              "text": "翫杏堂梓",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "也亦形肥盛者有為半身不遂口眼喎斜疾或為痺或為"
+            },
+            {
+              "text": "不仁者親視之以吾子言為信矣然其證先賢所謂中風"
+            },
+            {
+              "text": "病也今為飲病者與古人大齟齬也以子言為是則古人"
+            },
+            {
+              "text": "非歟子今生於千載之後出奇論謾吐大言而令人狐疑"
+            },
+            {
+              "text": "醫家立言一違則殺人猶白刃一人誤千萬人也古人謂"
+            },
+            {
+              "text": "半身不遂者與今吾子所謂半身不遂者有異歟答曰古"
+            },
+            {
+              "text": "人謂半身不遂者王安道所謂眞中風也今余所言者其"
+            },
+            {
+              "text": "證似風狀而其因非風所謂飲也靈樞經刺節眞邪篇曰"
+            },
+            {
+              "text": "邪氣者虛風之賊傷人也深不能自去正風者其中人也"
+            },
+            {
+              "text": "淺合而自去其氣來柔弱不能勝眞氣故自去虛邪之中"
+            },
+            {
+              "text": "人也洒淅動形起毫毛而發腠理其入深內搏於骨則為"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "十",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 6,
+          "context": "欬",
+          "candidates": [],
+          "note": "返點與小片假名未逐符編。「欬」「咳」從各欄印形；第一欄「芪」待核。"
+        },
+        {
+          "side": "right",
+          "column": 9,
+          "context": "咳",
+          "candidates": [],
+          "note": "返點與小片假名未逐符編。「欬」「咳」從各欄印形；第一欄「芪」待核。"
+        },
+        {
+          "side": "right",
+          "column": 1,
+          "context": "芪",
+          "candidates": [],
+          "note": "返點與小片假名未逐符編。「欬」「咳」從各欄印形；第一欄「芪」待核。"
+        }
+      ],
+      "observations": "右面：返點與小片假名未逐符編。「欬」「咳」從各欄印形；第一欄「芪」待核。 左面：返點與小片假名未逐符編。第三欄「齟齬」、第九欄「賊」按字形；末欄「洒」依刊形。"
+    },
+    {
+      "image": 17,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/17",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00017.tif/full/full/0/default.jpg",
+      "label": "17",
+      "file": "17.jpg",
+      "sha256": "436016c2bf914db5984c36a91b9cd95d8d12385156e7bbae3642c1945d450e5c",
+      "bytes": 428049,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "骨痺搏於筋則為筋攣搏於脈中為血閉不通則為癰搏"
+            },
+            {
+              "text": "於肉與衛氣相搏陽勝者則為熱陰勝者則為寒寒則眞"
+            },
+            {
+              "text": "氣去去虛虛則寒搏於皮膚之間其氣外發腠理開毫毛"
+            },
+            {
+              "text": "搖氣往來行則為痒留不去則為痺衛氣不行則為不仁"
+            },
+            {
+              "text": "虛邪偏客於身半其入深內居榮衛榮衛稍衰則眞氣去"
+            },
+            {
+              "text": "邪氣獨留發為偏枯蓋虛風其入深內居榮衛久而不去"
+            },
+            {
+              "text": "則年逾四旬榮衛稍衰則眞氣去虛邪獨留為偏枯也"
+            },
+            {
+              "text": "枯者枯槁也風者陽氣也能燥物是以"
+            },
+            {
+              "text": "邪風居於榮衛久則令液燥而枯槁也故金匱中風治方"
+            },
+            {
+              "text": "候氏黑散風引湯方中以牡蠣龍骨礬石石脂等濇藥者"
+            },
+            {
+              "text": "是令液不燥者也唐宋以來方書中風治方偶雖有地黃"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "第7欄末至第8欄首小字",
+              "text": "虛風虛邪者靈樞九宮八風篇宜參考也",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "十",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心下方",
+              "text": "翫杏堂梓",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "當歸潤藥多以半夏南星等燥藥者是不知眞中風以飲"
+            },
+            {
+              "text": "病誤混風證也余所謂飲病者異風證也其外證者以半"
+            },
+            {
+              "text": "身不遂口眼喎斜四肢不用者視之則相似風證者也風"
+            },
+            {
+              "text": "證者枯槁也飲病者非枯槁者形似著痺四肢滿閉也語"
+            },
+            {
+              "text": "言不正者風證者舌強語言不正也飲病語言不正者非"
+            },
+            {
+              "text": "舌強者舌滿閉語言不正也飲病者手足有微腫與風證"
+            },
+            {
+              "text": "枯槁者不相同也故以半夏燥藥兼滲利之藥者治飲之"
+            },
+            {
+              "text": "主方也亦以防風桂枝驅風藥無牡蠣龍骨濇藥者治風"
+            },
+            {
+              "text": "之主方也學者察焉"
+            },
+            {
+              "text": "或問曰王安道出舉河間東垣彥修三賢之說眞中風類"
+            },
+            {
+              "text": "中風之名義始明也然今吾子發論飲病為異說三賢之"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "十一",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 1,
+          "context": "脈",
+          "candidates": [],
+          "note": "返點與小片假名未逐符編。第七欄末、第八欄首各有雙行小字，依大字的連讀位置另標。首欄「脈」、第十欄首「候」與礬石以下的「濇」待核。"
+        },
+        {
+          "side": "right",
+          "column": 10,
+          "context": "候",
+          "candidates": [],
+          "note": "返點與小片假名未逐符編。第七欄末、第八欄首各有雙行小字，依大字的連讀位置另標。首欄「脈」、第十欄首「候」與礬石以下的「濇」待核。"
+        },
+        {
+          "side": "right",
+          "column": 10,
+          "context": "濇",
+          "candidates": [],
+          "note": "返點與小片假名未逐符編。第七欄末、第八欄首各有雙行小字，依大字的連讀位置另標。首欄「脈」、第十欄首「候」與礬石以下的「濇」待核。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "著",
+          "candidates": [],
+          "note": "返點與小片假名未逐符編。第四欄「著」、第七欄「滲」、第十欄「出」待核。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "滲",
+          "candidates": [],
+          "note": "返點與小片假名未逐符編。第四欄「著」、第七欄「滲」、第十欄「出」待核。"
+        },
+        {
+          "side": "left",
+          "column": 10,
+          "context": "出",
+          "candidates": [],
+          "note": "返點與小片假名未逐符編。第四欄「著」、第七欄「滲」、第十欄「出」待核。"
+        }
+      ],
+      "observations": "右面：返點與小片假名未逐符編。第七欄末、第八欄首各有雙行小字，依大字的連讀位置另標。首欄「脈」、第十欄首「候」與礬石以下的「濇」待核。 左面：返點與小片假名未逐符編。第四欄「著」、第七欄「滲」、第十欄「出」待核。"
+    },
+    {
+      "image": 18,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/18",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00018.tif/full/full/0/default.jpg",
+      "label": "18",
+      "file": "18.jpg",
+      "sha256": "f770c1722e94c5b85490ef975592dbc7a81720dae8ff9a0170362cadc7afbc44",
+      "bytes": 420415,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "說亦不可廢為如之何哉答曰王安道醫傑卓然者也非"
+            },
+            {
+              "text": "愚之所及謹而觀察於內經安道有所未及者也舉三賢"
+            },
+            {
+              "text": "之說以三因唱一口而謂類中風而不謂病名以形狀相"
+            },
+            {
+              "text": "似謾稱類中風者所以不知其因也"
+            },
+            {
+              "text": "河間曰中風癱瘓者非謂肝木之風實甚而卒中之亦非"
+            },
+            {
+              "text": "外中於風由乎將息失宜心火暴甚腎水虛衰不能制之"
+            },
+            {
+              "text": "則陰虛陽實而熱氣沸鬱心神昏冒筋骨不用而卒倒無"
+            },
+            {
+              "text": "所知也是以心火為其因者也今心火暴甚腎水虛衰而"
+            },
+            {
+              "text": "不能制火者何止中風一證而已哉實腎水虛衰而不能"
+            },
+            {
+              "text": "制火心火既暴甚則非醫療所及也愚按河間所論者眞"
+            },
+            {
+              "text": "中風歟虛邪入於榮衛虛邪者風氣也風氣陽邪也是以"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "十一",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心下方",
+              "text": "翫杏堂梓",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "虛邪入於榮衛久而不去則令津液燥至此時腎水虛衰"
+            },
+            {
+              "text": "榮衛微而三焦不能御則邪氣獨熾盛極甚而其變不可"
+            },
+            {
+              "text": "舉數也經曰搏又曰留不去又曰客於身半又曰其入深"
+            },
+            {
+              "text": "然河間曰非外中於風心火暴甚者不通論也"
+            },
+            {
+              "text": "東垣曰中風者非外來風邪乃本氣病也人年逾四旬氣"
+            },
+            {
+              "text": "衰之際或因憂喜忿怒傷其氣者多有此疾壯歲之時無"
+            },
+            {
+              "text": "有也若肥盛則間有之是亦不通論也人年逾四旬後有"
+            },
+            {
+              "text": "此疾以此為本氣病主乎氣歟蓋人年四十以上有此疾"
+            },
+            {
+              "text": "者經曰榮衛稍衰則眞氣去邪氣獨留也然東垣言眞氣"
+            },
+            {
+              "text": "去者未言邪氣獨留者昔日李東垣所視病者察之年四"
+            },
+            {
+              "text": "十以上肥盛者口眼喎斜而半身不遂者歟此非風病而"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "十二",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 6,
+          "context": "喜",
+          "candidates": [],
+          "note": "返點與小片假名未逐符編。第六欄「喜」墨色淺，待核。"
+        }
+      ],
+      "observations": "右面：返點與小片假名未逐符編。「一口」「沸鬱」「醫傑」依圖暫讀。 左面：返點與小片假名未逐符編。第六欄「喜」墨色淺，待核。"
+    },
+    {
+      "image": 19,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/19",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00019.tif/full/full/0/default.jpg",
+      "label": "19",
+      "file": "19.jpg",
+      "sha256": "09ef4a6915e2e68c79152aed60c52b0e901b8d6ff4e2f1e9a7d5d8eb9a4bcfc7",
+      "bytes": 425626,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "當飲病知非中風而謂非外來風邪者可也其因雖知非"
+            },
+            {
+              "text": "風未知飲病謾以氣為主而誤治有連年月不已者也"
+            },
+            {
+              "text": "彥修曰西北氣寒為風所中誠有之矣東南氣溫而地多"
+            },
+            {
+              "text": "濕有風病者非風也皆濕土生痰痰生熱熱生風也是在"
+            },
+            {
+              "text": "東南則為濕在西北則為風而眞中風類中風執兩端者"
+            },
+            {
+              "text": "也雖知似中風非中風者未知其病因謾以濕主之乎巧"
+            },
+            {
+              "text": "言曰熱生風其意未能離風者也河間東垣彥修出而一"
+            },
+            {
+              "text": "病分四因後學者惑多岐治方彼此相違而連年月不已"
+            },
+            {
+              "text": "者是誰謬哉此三子者醫中賢者也比之仲景則升堂未"
+            },
+            {
+              "text": "入室仲景氏醫家之聖者也"
+            },
+            {
+              "text": "河間主乎火者愚按虛邪入榮衛則燥精液也壯歲時榮"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "十二",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心下方",
+              "text": "翫杏堂梓",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "衛盛而不知其燥年四十以上腎氣衰榮衛微則虛邪獨"
+            },
+            {
+              "text": "盛而令精液燥也所燥精液者虛邪也以其虛邪為心火"
+            },
+            {
+              "text": "歟河間所視病者多火證歟故治火病者以河間為詳也"
+            },
+            {
+              "text": "然以風證混火病者劉河間一辭也"
+            },
+            {
+              "text": "東垣主氣者愚按虛風入於榮衛飲亦入於榮衛雖其邪"
+            },
+            {
+              "text": "久而不去壯歲之時不覺之年逾四旬腎氣稍衰榮衛微"
+            },
+            {
+              "text": "而不能防其邪則邪獨盛而或為痺或為不仁或為半身"
+            },
+            {
+              "text": "不遂等疾也東垣不言其邪以腎氣虛衰榮衛之微者為"
+            },
+            {
+              "text": "本氣之病歟以此治內傷病者莫如東垣也"
+            },
+            {
+              "text": "彥修主乎濕者愚按雖知其形狀似中風而非中風遂無"
+            },
+            {
+              "text": "明其因其形狀似飲著痺者牽強而主乎濕歟然其因以"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "十三",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 9,
+          "context": "謬",
+          "candidates": [],
+          "note": "返點與小片假名未逐符編。第九欄「謬」待核，不改同書其他「謾」。"
+        },
+        {
+          "side": "right",
+          "column": null,
+          "context": "謾",
+          "candidates": [],
+          "note": "返點與小片假名未逐符編。第九欄「謬」待核，不改同書其他「謾」。"
+        }
+      ],
+      "observations": "右面：返點與小片假名未逐符編。第九欄「謬」待核，不改同書其他「謾」。 左面：返點與小片假名未逐符編。第四欄末「辭」與第十一欄「牽」暫依刊形。"
+    },
+    {
+      "image": 20,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/20",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00020.tif/full/full/0/default.jpg",
+      "label": "20",
+      "file": "20.jpg",
+      "sha256": "258d2a204d3f2671fd3ab74b6b68e7a09f0f827a144560ccdd0694359238d3b1",
+      "bytes": 422383,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "地濕則混肉痿亦"
+            },
+            {
+              "text": "西北有風病而東南無風病者不通論也"
+            },
+            {
+              "text": "彥修不識仲景氏仲景氏所謂痰者四飲中之一證而飲"
+            },
+            {
+              "text": "走於腸間瀝瀝有聲謂之痰飲也濕土生痰者仲景氏所"
+            },
+            {
+              "text": "不言也言濕土生痰者以胃中濕火為痰歟將涎沫為痰"
+            },
+            {
+              "text": "歟非仲景氏所謂痰也亦熱生風者何風哉夫風者有內"
+            },
+            {
+              "text": "風有外風所謂內風者河間言肝木之風是也所謂外風"
+            },
+            {
+              "text": "者外來之風是也熱生風之義俟來哲而已蓋有似中風"
+            },
+            {
+              "text": "而非中風者也非三賢先出而孰能知之哉後世有功于"
+            },
+            {
+              "text": "醫家者此三賢也"
+            },
+            {
+              "text": "王安道虞天民論之未詳安道曰惟其以因火因氣因濕"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "第1欄「肉痿」後小字",
+              "text": "痿論篇曰居處相濕肌肉濡漬而不仁發為肉痿故下經曰肉痿者得濕地也",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "第2欄末小字",
+              "text": "九宮八風篇參考則其理自解",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "十三",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心下方",
+              "text": "翫杏堂梓",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "之證強引風合論之所以眞偽不分而名實相紊又曰為"
+            },
+            {
+              "text": "風則從昔人以治辨之為火氣濕則從三子以治是無歸"
+            },
+            {
+              "text": "一論謾舉三子之說貽後人狐疑者也"
+            },
+            {
+              "text": "虞天民曰古人論中風者言其證也三先生論中風者言"
+            },
+            {
+              "text": "其因也是亦巧言而論之非歸一論也蝦躍不出斗是之"
+            },
+            {
+              "text": "謂歟"
+            },
+            {
+              "text": "醫壘元戎曰酒濕之為病亦能作痺證口眼喎斜半身不"
+            },
+            {
+              "text": "遂渾似中風舌強不正當瀉濕毒不可作風病治之而汗"
+            },
+            {
+              "text": "也愚以為不然肥盛者多有此疾飲酒人多肥盛是以為"
+            },
+            {
+              "text": "酒濕歟非酒客而肥盛者亦有此疾酒客肥盛者必有半"
+            },
+            {
+              "text": "身不遂疾為酒濕則非酒客而肥盛者有半身不遂疾者"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "十四",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 1,
+          "context": "混",
+          "candidates": [],
+          "note": "返點與小片假名未逐符編。第一、二欄各有雙行小字，另錄。「混」及小字「濡漬」「下經」待核。"
+        }
+      ],
+      "observations": "右面：返點與小片假名未逐符編。第一、二欄各有雙行小字，另錄。「混」及小字「濡漬」「下經」待核。 左面：返點與小片假名未逐符編。第三欄「貽」、第五欄「蝦」、第七欄「壘」暫依圖讀。"
+    },
+    {
+      "image": 21,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/21",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00021.tif/full/full/0/default.jpg",
+      "label": "21",
+      "file": "21.jpg",
+      "sha256": "7285d184653f7fbb7d6df58c4319804c5bbd6211a8969307907b317ca195e7f7",
+      "bytes": 422985,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "為何病哉王海藏偶雖述善言迂遠而不通論也余之所"
+            },
+            {
+              "text": "不取也"
+            },
+            {
+              "text": "或問曰卒然昏倒而不識人事牙關緊急口吐涎沫聲如"
+            },
+            {
+              "text": "鼾睡半身不遂其甚者且發夕死名曰卒中風往々視之"
+            },
+            {
+              "text": "其形肥盛者多患之似吾子所謂飲病而比飲病則更重"
+            },
+            {
+              "text": "病也其輕者曰類中風其重者曰眞中風歟亦卒中風有"
+            },
+            {
+              "text": "眞與類歟答曰然也余狐疑有年于此謂卒中風者往往"
+            },
+            {
+              "text": "視之必死也亦卒倒不識人事者間有復者其後視之所"
+            },
+            {
+              "text": "謂類中風也其形狀半身不遂口眼喎斜語言不正者治"
+            },
+            {
+              "text": "之愈者間有之愚按飲邪居榮衛久而不去腎氣衰後榮"
+            },
+            {
+              "text": "衛微而不能防邪飲邪急入於胸膈蔽於心肺則不識人"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "十四",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心下方",
+              "text": "翫杏堂梓",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "至此時眞氣實者復氣而始識人事也飲邪入於胸膈暴"
+            },
+            {
+              "text": "甚乘心肺眞氣虛則不能勝邪而且發夕死是內攻甚者"
+            },
+            {
+              "text": "也或亦曰要略中風篇曰邪入於腑即不識人邪入於臟"
+            },
+            {
+              "text": "舌即難言口吐涎以此舉世為眞中風然今是等證為飲"
+            },
+            {
+              "text": "病而謂非眞中風者有何據哉答曰今所謂卒中風者視"
+            },
+            {
+              "text": "之不識人而不語者多難治欲言語言不正者易治經曰"
+            },
+            {
+              "text": "腑病易治臟病難治是以察之仲景氏所謂不識人者舌"
+            },
+            {
+              "text": "難言者與今所謂不識人者舌難言者不相同也今視所"
+            },
+            {
+              "text": "病者卒暴而必死者多矣仲景謂不識人而未言死也仲"
+            },
+            {
+              "text": "景氏所謂中風病不識人者邪入於腑者淺而易治亦舌"
+            },
+            {
+              "text": "即難言者邪入於臟深而難治也仲景氏謂不識人者按"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "十五",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 2,
+          "context": "且",
+          "candidates": [],
+          "note": "返點與小片假名未逐符編。第二欄「且」與第九欄「卒暴」待核。"
+        },
+        {
+          "side": "left",
+          "column": 9,
+          "context": "卒暴",
+          "candidates": [],
+          "note": "返點與小片假名未逐符編。第二欄「且」與第九欄「卒暴」待核。"
+        }
+      ],
+      "observations": "右面：返點與小片假名未逐符編。第二欄「不取也」墨淺。第四欄重文符依圖留「々」，第七欄另以「往往」印出。 左面：返點與小片假名未逐符編。第二欄「且」與第九欄「卒暴」待核。"
+    },
+    {
+      "image": 22,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/22",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00022.tif/full/full/0/default.jpg",
+      "label": "22",
+      "file": "22.jpg",
+      "sha256": "df0ded5725b61fdd3711676420f611ca0ad1d03d06781b7d9a25935c2ab85553",
+      "bytes": 423066,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "之金匱要略防己地黃湯方下曰治病如狂狀妄行獨語"
+            },
+            {
+              "text": "不休也"
+            },
+            {
+              "text": "是如狂狀妄行獨語者風邪入於"
+            },
+            {
+              "text": "腑者歟仲景氏所謂不識人者是也今所謂卒中風者多"
+            },
+            {
+              "text": "不語也仲景氏所謂舌卽難言者非不語之義欲言語言"
+            },
+            {
+              "text": "不正也亦聲如鼾睡者仲景不言之考之鼾睡常有之者"
+            },
+            {
+              "text": "皆肥盛人也瘦人無有之者卒倒而聲如鼾睡者皆飮證"
+            },
+            {
+              "text": "也今卒倒不識人牙關緊急口吐涎口眼喎斜半身不遂"
+            },
+            {
+              "text": "者其脈多弦數也要略曰脈微而數中風使然仲景氏言"
+            },
+            {
+              "text": "中風脈狀與今卒倒者其脈狀不相合弦數者飮病脈也"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "不休也小注1",
+              "text": "沈目南曰此少陰時令感冒風火入心是爲溫熱",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "不休也小注2",
+              "text": "之制非治中風之方乃編書者誤入蓋沈目南者",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "不休也小注3",
+              "text": "外張機堂未入於室歟余所視病者年三十有餘而形如",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "不休也小注4",
+              "text": "狂狀妄行獨語不休三月而後口眼喎斜語言不正也百",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "不休也小注5",
+              "text": "方不應而死矣於此乎",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "不休也小注6",
+              "text": "余始尊信乎此方也",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飮病論",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "唐宋以來治中風藥劑多用半夏南星之燥藥是以涎沫"
+            },
+            {
+              "text": "壅盛用燥劑者非治風方以此察之先輩知非風者歟唐"
+            },
+            {
+              "text": "宋以來至其治方無飮病治方而至論之不謂飮也脈經"
+            },
+            {
+              "text": "曰兩臂不遂時移在一臂其脈沈細非也必有飮在上焦"
+            },
+            {
+              "text": "是王叔和先出舉飮一證今述臆說雖似異說恐非過論"
+            },
+            {
+              "text": "先輩謂非風者皆吾徒也"
+            },
+            {
+              "text": "或曰沈目南曰扁鵲治虢太子之尸厥俗謂之類中風金"
+            },
+            {
+              "text": "匱謂之卒厥以此察之虢太子之尸厥與今所謂類中風"
+            },
+            {
+              "text": "其名異而其病相同治之愈者血氣入於腑不愈者氣血"
+            },
+            {
+              "text": "入於臟也吾子以此證爲飮邪內攻者難信矣答曰沈目"
+            },
+            {
+              "text": "南言余未信焉越人視虢太子之病而名尸厥者按之其"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 2,
+          "context": "壅盛",
+          "candidates": [],
+          "note": "正文「壅盛」首形近壅或雍；右緣版心重疊，左右印數另待核。"
+        }
+      ],
+      "observations": "右面：小注由連續的雙行小欄組成，第5小欄「於此乎」末字候「乎」。第5、6小欄只到上半；欄末以下續印「是如狂狀……」。 左面：正文「壅盛」首形近壅或雍；右緣版心重疊，左右印數另待核。"
+    },
+    {
+      "image": 23,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/23",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00023.tif/full/full/0/default.jpg",
+      "label": "23",
+      "file": "23.jpg",
+      "sha256": "634d370ed8d39dcb661d2e00f4008d2e90ad8e4126734583eb56e3e8d7cedfac",
+      "bytes": 426398,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "病名以形狀言之者歟厥逆卒倒而無所知者其形如屍"
+            },
+            {
+              "text": "故名曰尸厥虢太子之尸厥者內經所謂關格歟此其陽"
+            },
+            {
+              "text": "脈下遂陰脈上爭者難經所謂陽乘脈也陽猥犯於陰位"
+            },
+            {
+              "text": "以此陰爭位激如弦陽先入於陰中故陰失於其位而溢"
+            },
+            {
+              "text": "入於尺也又其證會氣閉而不通故越人治之取外三陽"
+            },
+            {
+              "text": "五會者關格之治法也經曰陰陽俱溢如是者不開則血"
+            },
+            {
+              "text": "脈閉塞氣無所行流淫於中五臟內傷越人取三陽五會"
+            },
+            {
+              "text": "者開之術關格之治法也余所謂飮邪內攻者卒倒無所"
+            },
+            {
+              "text": "知以其形狀謂之尸厥或謂之卒厥則可也其謂與血氣"
+            },
+            {
+              "text": "入於臟府者相同則不可也蓋陰陽俱溢血脈閉塞氣無"
+            },
+            {
+              "text": "所行流淫於中五臟內傷者與血氣入於臟腑者相同歟"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "以俟來哲"
+            },
+            {
+              "text": "今肥盛之人年逾四旬或五旬後有胸痛者庸工未詳其"
+            },
+            {
+              "text": "病因謾謂之心痛者非也愚按飮邪蒸於心肺則其始胸"
+            },
+            {
+              "text": "膈隱々痛急上衝敗於心肺則或吐血或吐涎沫卒然死"
+            },
+            {
+              "text": "也經曰胸痛少氣水氣在臟腑也是之謂也或問曰吾子"
+            },
+            {
+              "text": "所謂飮之胸痛與心痛其形狀何以別知之哉答曰眞心"
+            },
+            {
+              "text": "痛有論無治方矣金匱胸痺心痛篇論心痛詳也又有九"
+            },
+            {
+              "text": "痛丸治九種心痛也所謂九種心痛者三因方曰虫痛疰"
+            },
+            {
+              "text": "痛風痛悸痛食痛飮痛冷痛熱痛往來痛也余所謂胸痛"
+            },
+            {
+              "text": "者陳無擇所謂飮痛是也飮邪心痛者有緩有急也肥盛"
+            },
+            {
+              "text": "人年逾四旬後有頭目昏眩或惡心煩悶如在風雲之中"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第三欄陽下「猥」候「狠」；第七欄取下數字形作「三」。 左面：「膈隱々」重複符號保留；第五欄「臟腑」及右頁「臟府」按圖分存。"
+    },
+    {
+      "image": 24,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/24",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00024.tif/full/full/0/default.jpg",
+      "label": "24",
+      "file": "24.jpg",
+      "sha256": "fd14d7dbf1a89f1fd19bcbdc3b96d3c240e86a04a5f85932cf5d9f3bf27ee2b1",
+      "bytes": 426747,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "或肩背痛或脇下痛至肩背及頭痛或胸痛等證而連年"
+            },
+            {
+              "text": "月死亦不旬日死矣亦胸痛者其始發時慢々痛至死甚"
+            },
+            {
+              "text": "急也且發夕死者皆飮邪內攻者也此證以無半身不遂"
+            },
+            {
+              "text": "口眼喎斜等外證謾謂厥證或謂心痛爲不治之病矣今"
+            },
+            {
+              "text": "胸痛者詳其因而飮邪胸痛其微時治之十全七八歟此"
+            },
+            {
+              "text": "證雖壯歲人肥盛而以酒爲藥入房過度者間有之矣"
+            },
+            {
+              "text": "或亦問曰飮之胸痛與脚氣衝心者相似何以別知之哉"
+            },
+            {
+              "text": "答曰脚氣家之義吾雖未詳審私聞之今所謂脚氣者上"
+            },
+            {
+              "text": "古所謂厥也素問厥論舉六經形證也今所謂脚氣腫滿"
+            },
+            {
+              "text": "者脚膝酸痛或脚弱或麻痺不仁而發腫不日而衝心者"
+            },
+            {
+              "text": "其痛一陣如裂止而又發其死在旦夕也余所謂飮邪胸"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "痛者形肥盛者胸膈隱々痛與脚氣衝心痛如裂者異也"
+            },
+            {
+              "text": "飮邪亦暴甚乘於心肺內攻則其痛與脚氣衝心者雖無"
+            },
+            {
+              "text": "異其因不相同飮邪者察其外証有飮者焉詳其脈證而"
+            },
+            {
+              "text": "彼此勿混矣亦飮腫欲已發時有心下悸者庸工有謂之"
+            },
+            {
+              "text": "脚氣衝心者飮腫心下悸者水在腎者也其證似怔忡而"
+            },
+            {
+              "text": "非怔忡惕々然如恐與脚氣衝心其痛如裂者異也亦飮"
+            },
+            {
+              "text": "腫當欲已發日其人遠行而足痠痛或麻痺不仁而發腫"
+            },
+            {
+              "text": "者庸工謾爲脚氣腫滿矣蓋水者就下者也故飮腫亦從"
+            },
+            {
+              "text": "足始也夫腫從足發者脚氣腫與飮腫雖難別知察素有"
+            },
+            {
+              "text": "飮者詳其形狀與脈症而勿之混矣唐宋以來所謂風毒"
+            },
+            {
+              "text": "脚氣與仲景氏所謂脚氣冲心者異也仲景氏所謂脚氣"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 2,
+          "context": "不旬日",
+          "candidates": [],
+          "note": "第二欄「不旬日」的旬框內疑日；第四欄「謾」按左言形。"
+        },
+        {
+          "side": "right",
+          "column": 4,
+          "context": "謾",
+          "candidates": [],
+          "note": "第二欄「不旬日」的旬框內疑日；第四欄「謾」按左言形。"
+        }
+      ],
+      "observations": "右面：第二欄「不旬日」的旬框內疑日；第四欄「謾」按左言形。 左面：「隱々」「惕々」保留重複符；第三欄外「証」右近正，同欄「脈證」右發碱結；七欄酸處從疒候「痠」。末欄冲右中且見二點。"
+    },
+    {
+      "image": 25,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/25",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00025.tif/full/full/0/default.jpg",
+      "label": "25",
+      "file": "25.jpg",
+      "sha256": "33727c3c6ac78608c817258e834a48d08c0353a7c0a100382aae8c733e5f77f2",
+      "bytes": 424458,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "衝心者非腫滿之義歟脚膝壅腫痛甚則惡心煩悶已衝"
+            },
+            {
+              "text": "心則卒倒有不識人者與今所謂腫滿內攻而衝心者異"
+            },
+            {
+              "text": "也千金外臺有脚氣之名而無脚氣之義矣濕熱蒸氣以"
+            },
+            {
+              "text": "足常履之爲脚氣腫也蓋遇陰雨或臥濕地而發腫者爲"
+            },
+            {
+              "text": "何腫滿歟千金曰夫風毒之氣皆起於地地寒暑風濕皆"
+            },
+            {
+              "text": "作蒸氣足常履之所以風毒之中人也必先中脚久而不"
+            },
+            {
+              "text": "瘥遍及四肢腹背頭也微時不覺痼滯乃知愚按外感濕"
+            },
+            {
+              "text": "熱蒸氣而發腫者名脚氣腫滿歟夫腫脹之疾或厥或飮"
+            },
+            {
+              "text": "腫或水腫或外感濕熱蒸氣或血氣俱熱遂生瘡疥變爲"
+            },
+            {
+              "text": "腫滿各別也"
+            },
+            {
+              "text": "今侯伯富貴之人有患厥者其人以酒爲漿醉以入房以"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "嗜欲勞其目淫邪惑其心者患厥矣經曰陽氣衰於下則"
+            },
+            {
+              "text": "爲寒厥陰氣衰於下爲熱厥蓋厥證發腫者我見厥論亦"
+            },
+            {
+              "text": "常居於大厦者患厥見呂氏春秋"
+            },
+            {
+              "text": "今侯伯富貴之人田獵入於山林幽谷或馮河而後有發"
+            },
+            {
+              "text": "腫者謂之風毒脚氣也愚按此證感濕熱蒸氣而雖患之"
+            },
+            {
+              "text": "亦感毒虫等遺毒而發腫者有之歟夫山林幽谷其樹華"
+            },
+            {
+              "text": "枝布葉草離々不通風氣而不能散毒虫之遺毒誤履之"
+            },
+            {
+              "text": "者有所中其毒氣者歟是疝脹家所起也余昔日行田舍"
+            },
+            {
+              "text": "親視中毒虵者毒虵螫於足指頭瞬目際發腫至膝矣田"
+            },
+            {
+              "text": "舍翁告之曰毒虵螫之則直以茅結之所螫之處灸之次"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "呂氏春秋小注1",
+              "text": "呂氏春秋孟春紀重己",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "呂氏春秋小注2",
+              "text": "篇曰室大則多陰臺高",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "呂氏春秋小注3",
+              "text": "則多陽多陰則蹶多陽",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "呂氏春秋小注4",
+              "text": "則痿史註曰蹶同厥",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飮病論",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：「變」右半末欄前一欄；七欄「瘥」疒下形差。 左面：正文所述為毒蛇咬傷和歷史醫案；不見病原採取、傳播、接種或操作。原「虵」字近虫＋也。「草離々」兩次連讀保留重複符。「重己」末字沒有出頭，依形作「己」。"
+    },
+    {
+      "image": 26,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/26",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00026.tif/full/full/0/default.jpg",
+      "label": "26",
+      "file": "26.jpg",
+      "sha256": "7f78f0a39e2caa6796d0ffdde18bdc24c75635d1f4d8deb3b0c6985ff3826af8",
+      "bytes": 422563,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "以礬石入於冷水以螫處浸之水則其毒浮水面而解其"
+            },
+            {
+              "text": "治遲則毒氣入於腹死矣於是乎隨其言卽愈也前漢書"
+            },
+            {
+              "text": "田儋傳曰蝮螫手則斬手螫足卽斬足"
+            },
+            {
+              "text": "又博物志曰蝮虵秋月毒盛齧草木以泄氣草木卽死以"
+            },
+            {
+              "text": "此可知毒氣大甚也凡疾從外入於內者危篤之證也瘡"
+            },
+            {
+              "text": "疥變發腫者其治遲則其死急也吾徒察焉"
+            },
+            {
+              "text": "或亦問曰侯伯富貴之人田獵而後有患風毒脚氣者蓋"
+            },
+            {
+              "text": "貴公公子雖田獵入於山谷不能獨行與從者俱行從者"
+            },
+            {
+              "text": "患之少而貴公公子患之者多何哉答曰貴公公子常居"
+            },
+            {
+              "text": "於大厦其皮膚薄弱也譬如幽谷之樹軟弱又行不車馬"
+            },
+            {
+              "text": "肩輿而自履地少故足皮膚亦軟弱也此人田獵入於山"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "田儋傳小注1",
+              "text": "應劭曰蝮一",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "田儋傳小注2",
+              "text": "名虺螫也",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "谷或入於別莊當風取涼醉以入房也"
+            },
+            {
+              "text": "從者常居於邸舍邸舍者日月直至席風氣能通以此庶"
+            },
+            {
+              "text": "人譬如向陽之樹皮膚堅實亦自履地多足皮膚堅實也"
+            },
+            {
+              "text": "以此中毒少也亦從者使令於君有禮飮酒不及亂矣彼"
+            },
+            {
+              "text": "侯伯富貴之人與庶人不可同日而談也"
+            },
+            {
+              "text": "風毒脚氣之治驗"
+            },
+            {
+              "text": "○婦人年二十有餘孟秋遠行而後足疼痛有寒熱發腫"
+            },
+            {
+              "text": "足至面部余診之其脈弦數而左右足有赤點以爲毒脚"
+            },
+            {
+              "text": "氣故以鍼悉放之取紫黑血投之以敗毒散不旬日而愈"
+            },
+            {
+              "text": "不知偶中否記茲而俟來哲矣蓋脚氣腫非一端而治方"
+            },
+            {
+              "text": "亦各別也今余所治者是止風毒脚氣治方也"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "別莊小注1",
+              "text": "別莊者鎖門常少",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "別莊小注2",
+              "text": "人煙故多陰濕也",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 3,
+          "context": "儋",
+          "candidates": [],
+          "note": "田「儋」右詹；蛇作虵。第8、9欄「貴公公子」首個公也候介。第10欄「又行不車馬」疑有訓讀。"
+        },
+        {
+          "side": "right",
+          "column": null,
+          "context": "貴公公子",
+          "candidates": [],
+          "note": "田「儋」右詹；蛇作虵。第8、9欄「貴公公子」首個公也候介。第10欄「又行不車馬」疑有訓讀。"
+        },
+        {
+          "side": "right",
+          "column": 10,
+          "context": "又行不車馬",
+          "candidates": [],
+          "note": "田「儋」右詹；蛇作虵。第8、9欄「貴公公子」首個公也候介。第10欄「又行不車馬」疑有訓讀。"
+        }
+      ],
+      "observations": "右面：田「儋」右詹；蛇作虵。第8、9欄「貴公公子」首個公也候介。第10欄「又行不車馬」疑有訓讀。 左面：小注在首大欄的下三分之一；首小欄末「少」有筆撇，次欄首「人」下有訓點。病例「足至」足前有小訓符。"
+    },
+    {
+      "image": 27,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/27",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00027.tif/full/full/0/default.jpg",
+      "label": "27",
+      "file": "27.jpg",
+      "sha256": "24199659582bff0d9d529bfab70fc84aa5983efb9e18af1fb837608b4be3714c",
+      "bytes": 364079,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "或曰痰者金匱要略四飮之一也其治方用溫藥後世之"
+            },
+            {
+              "text": "方書多以爲火證故論也治也比仲景豈止天淵後世所"
+            },
+            {
+              "text": "謂痰與仲景氏所謂痰同名而異類者歟抑痰與飮爲異"
+            },
+            {
+              "text": "名異證者歟答曰後世方書所論者多火證金匱痰飮病"
+            },
+            {
+              "text": "篇有痰名不言火病痰之字始出金匱也仲景雖未言火"
+            },
+            {
+              "text": "病痰字從疒从炎以此後人本乎痰之字義發明之謂飮"
+            },
+            {
+              "text": "中火證歟夫火者有君火有相火有虛火有實火古人論"
+            },
+            {
+              "text": "之詳也鑽木生火金石相合生火積油百石久則生火塵"
+            },
+            {
+              "text": "芥多積則生火是自然之理也至其變不可測者也人身"
+            },
+            {
+              "text": "中所積者水穀也水穀入於胃中而所腐熟之者三焦之"
+            },
+            {
+              "text": "氣使然也胃中水穀其氣清者爲營濁者爲衛其糟粕相"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "分而出於二竅而無停滯者平人也有微停滯則鬱蒸而"
+            },
+            {
+              "text": "生火爲病也蓋塵芥乾則無火塵芥中有水濕氣則能生"
+            },
+            {
+              "text": "火是濕火也腸胃中物停滯則生火是腸胃中之濕火也"
+            },
+            {
+              "text": "其火熾然盛則煎熬津液其變不可舉數也其所病形狀"
+            },
+            {
+              "text": "非一者火無正體應物爲象也蓋臟腑經絡氣血之虛實"
+            },
+            {
+              "text": "人人不相同是以病狀多端也金匱所謂痰飮者溢飮也"
+            },
+            {
+              "text": "飮水溢入於肌皮腸胃之外久而不去則走於內入於腸"
+            },
+            {
+              "text": "間也後世所謂痰者非溢飮水穀入於胃中微停滯則生"
+            },
+            {
+              "text": "火爲病內外異而其因不相同也唐宋以後方書胃中之"
+            },
+            {
+              "text": "濕火治方盡焉然不分內外而飮病與火病混雜者有所"
+            },
+            {
+              "text": "未盡焉彥修曰濕土生痰者非長沙所謂痰也或問曰津"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第8末及第9首接成「塵芥」；第11營或是字形較窄的「營」，不改爲榮。 左面：第4欄火後字左火右戠，近「熾」。酸化等現代解釋不加。"
+    },
+    {
+      "image": 28,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060",
+      "image_url": "https://kokusho.nijl.ac.jp/biblio/200022060",
+      "label": "28",
+      "file": "28.jpg",
+      "sha256": "58a341c342edbf539bc4cd2755d3a9e218493b453ec477cdddaf11e92e34ebdc",
+      "bytes": 423629,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "author-text",
+      "source_link_scope": "catalogue-only",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "液順行則無病凝滯則爲病其外證吐如濁涕物名之曰"
+            },
+            {
+              "text": "痰也故先哲曰津液化爲痰或曰人身之痰如長流之水"
+            },
+            {
+              "text": "貴乎順行夫痰者從胃管來彥脩所謂濕土生痰者是仲"
+            },
+            {
+              "text": "景所未發言也非彥脩臆言之哉今以彥脩言爲非者何"
+            },
+            {
+              "text": "哉答曰唐宋以來至彥修雖發仲景不言之祕其名混痰"
+            },
+            {
+              "text": "者不可也經曰腎主液蓋腎者胃之關也關門不利則津"
+            },
+            {
+              "text": "液凝滯而爲粘唾涎沫吐之從胃管來是以金匱曰欬嗽"
+            },
+            {
+              "text": "治屬飮家唐宋以下咳嗽治以屬飮家而牽強混痰飮矣"
+            },
+            {
+              "text": "仲景氏所謂痰者飮水走於腸間瀝々有聲者是也今汝"
+            },
+            {
+              "text": "所謂如濁涕者非痰又非粘唾涎沫上古有名歟吾孤陋"
+            },
+            {
+              "text": "學未知其名余竊思今所吐如濁涕者肺氣薰蒸而粘著"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "喉管爲浮濁歟譬如煙管脂"
+            },
+            {
+              "text": "吐粘唾涎沫者其治屬飮家肺管浮濁者其治屬肺家歟"
+            },
+            {
+              "text": "肺平則喉管無浮濁肺熱則浮濁多其治清肺浮濁自消"
+            },
+            {
+              "text": "也方書所載溫肺湯方下曰治肺感寒邪咳嗽而吐痰者"
+            },
+            {
+              "text": "其方察之青龍湯變方而飮家之藥也此方治咳嗽吐粘"
+            },
+            {
+              "text": "唾涎沫者方中有溫熱之藥物此以謾謂肺感寒邪者畫"
+            },
+            {
+              "text": "蛇添足者也咳嗽吐粘唾涎沫者非所關肺家矣此方雖"
+            },
+            {
+              "text": "應病奇名溫肺者妄哉青龍湯知傷寒家之藥劑未知飮"
+            },
+            {
+              "text": "家之主藥彥修所謂痰者胃中濕火也今所謂熱痰者多"
+            },
+            {
+              "text": "屬於肺家濕痰者屬於飮家也"
+            },
+            {
+              "text": "或曰半身不遂者有左右之別先哲以氣血別之吾子隨"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "omissions": [
+        {
+          "side": "left",
+          "column": 1,
+          "kind": "source-small-note",
+          "status": "not-included",
+          "description": "此處有一則未轉錄的小注。"
+        }
+      ],
+      "observations": "右面：第3、4欄的脩與第五欄修按圖分存。第7欄末「欬嗽」讀欬，第8欄「咳嗽」按字形。第9欄聲前是瀝形與反覆符。 左面：此處有一則未轉錄的小注。"
+    },
+    {
+      "image": 29,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/29",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00029.tif/full/full/0/default.jpg",
+      "label": "29",
+      "file": "29.jpg",
+      "sha256": "cbbb7c8d9b8f76bb4e6377f20fb693833b8e0d02417cabc06d11cea836a14082",
+      "bytes": 405114,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "此說歟答曰以氣血別左右者醫家之定法也今視腫病"
+            },
+            {
+              "text": "者其腫有左多者或有右多者而腫病有偏腫不可無疑"
+            },
+            {
+              "text": "也按之素有積者其積在左則腫亦左多其積在右者其"
+            },
+            {
+              "text": "腫亦右多是其積在處充塞而氣道爲之濇滯者也氣濇"
+            },
+            {
+              "text": "處湊邪氣而偏腫也今半身不遂者有左右之別者是亦"
+            },
+            {
+              "text": "有積者氣道濇滯而湊邪氣而爲偏也蓋腫脹病爲偏者"
+            },
+            {
+              "text": "是飮腫也今余以所歷試者記之也"
+            },
+            {
+              "text": "或曰前所謂飮腫之治方既聞之飮病之半身不遂者治"
+            },
+            {
+              "text": "方未聞焉答曰飮病爲腫或半身不遂者雖其形狀非一"
+            },
+            {
+              "text": "其病因相同是以治方無異今余所治者偶中而幸免者"
+            },
+            {
+              "text": "歟數年所歷試以有功者謾陳之如左"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "○婦人年四十有餘肥盛者卒然口眼喎斜右手足微麻"
+            },
+            {
+              "text": "痺診其脈弦無他證是飮病也投之以九味半夏湯二旬"
+            },
+            {
+              "text": "而全愈"
+            },
+            {
+              "text": "○男子年四旬非肥盛亦非瘦者一日爲沐浴半身覺湯"
+            },
+            {
+              "text": "之氣半身不覺之無餘證是半身不仁者也用九味半夏"
+            },
+            {
+              "text": "湯二十日而全愈"
+            },
+            {
+              "text": "○男子年五十有餘形稍肥左右手持重不能持輕足不"
+            },
+            {
+              "text": "得履眼精不見遠面部及手足俱有微水氣而無他證其"
+            },
+            {
+              "text": "脈微弦治方九味半夏湯兼腎氣丸用之三月而愈"
+            },
+            {
+              "text": "○男子素瘦者年五十有餘右手持重不能持輕無他證"
+            },
+            {
+              "text": "其脈微弦也治方同前五十日全愈"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第四及第六欄滯前所見水旁右件繁，候濇／澀。左緣第五旁紙裂。 左面：四案以原刻圈分，保留「眼精」。第一案短欄後的淡影列透印；第三案「履」形淡，候履。"
+    },
+    {
+      "image": 30,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/30",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00030.tif/full/full/0/default.jpg",
+      "label": "30",
+      "file": "30.jpg",
+      "sha256": "25a60892c1cebdb7c2cf62dae6bd3dd00807359d82a8c8c27652023ec8e64665",
+      "bytes": 410884,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "○婦人年五十有餘肥盛者卒然右半身不遂口眼喎斜"
+            },
+            {
+              "text": "口流涎其脈弦用九味半夏湯三十日而愈"
+            },
+            {
+              "text": "○男子年五十有餘素肥盛今少瘦卒然昏倒牙關緊急"
+            },
+            {
+              "text": "口吐涎不識人一醫先行灸之刺之用以蘓香圓復氣識"
+            },
+            {
+              "text": "人事余後至病者自應對日前覺手足之麻痺昨日舌強"
+            },
+            {
+              "text": "語言不正今日心下悸卒倒不識人事矣診其脈急弦而"
+            },
+            {
+              "text": "氣息微急也用小青龍湯少間安後用九味半夏湯兼腎"
+            },
+            {
+              "text": "氣丸二月而愈"
+            },
+            {
+              "text": "○男子年五十有餘肥盛者一日久坐不語也家人曰常"
+            },
+            {
+              "text": "嗜膏粱今日酒肉太過是必停滯食歟余診其脈弦而數"
+            },
+            {
+              "text": "以爲飮邪蒸於心肺證也用小青龍湯一日而半身不遂"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "欲言語言不正有熱精神恍惚於是乎用大青龍湯旬日"
+            },
+            {
+              "text": "其熱退而用九味半夏湯五十日而愈"
+            },
+            {
+              "text": "○男子年五十有餘肥盛者卒倒不識人聲如鼾睡口流"
+            },
+            {
+              "text": "涎而不語也諸藥不應於是乎庸工謾灸天樞氣海以艾"
+            },
+            {
+              "text": "草徑五六分者不醒一晝夜醫俗謂之卒中風必死也診"
+            },
+            {
+              "text": "其脈緊而數愚按此飮邪蒸於心肺證也投之以小青龍"
+            },
+            {
+              "text": "湯復氣而識人事後九味半夏湯用之三十日而愈"
+            },
+            {
+              "text": "○男子年七十肥盛者口眼喎斜手足麻痺咳嗽小水短"
+            },
+            {
+              "text": "赤腰至足有水氣其脈微弦也投之九味半夏湯加肉桂"
+            },
+            {
+              "text": "芍藥數月而愈"
+            },
+            {
+              "text": "○婦人年五十有餘肥盛者手足痺而氣息微急診之其"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第四欄「蘓香圓」首字下有魚與禾，高圖候蘓／蘇；圓外框可見。三案有段首圈；短欄下印影淡。 左面：第四、五欄下線旁有紙裂；第四欄末艾下接草。第十一欄結尾「其」續次幅。"
+    },
+    {
+      "image": 31,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/31",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00031.tif/full/full/0/default.jpg",
+      "label": "31",
+      "file": "31.jpg",
+      "sha256": "2795b32fd7e95dd694475e119108204dd6d40424dc571cf249f09a7525ced2a3",
+      "bytes": 421488,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "脈微弦也是必發腫如余言足至腰發腫投之九味半夏"
+            },
+            {
+              "text": "湯加肉桂芍藥三十日腫愈而後脚膝軟弱不能起於床"
+            },
+            {
+              "text": "也於是乎用腎氣丸一月而起臥如常全愈或曰腫愈"
+            },
+            {
+              "text": "後脚膝軟弱者素脚氣腫也吾子不以脚氣腫之治方而"
+            },
+            {
+              "text": "爲飮腫何哉曰今腫病後視脚膝軟弱而不能起於床或"
+            },
+            {
+              "text": "筋縮不能屈伸者謾爲脚氣之說似是而非歟夫腫脹病"
+            },
+            {
+              "text": "之治方多以滲利燥劑故多服則精液俱燥也以此筋縮"
+            },
+            {
+              "text": "不伸或筋緩不能起於床也筋急者以甘藥緩之筋緩者"
+            },
+            {
+              "text": "以腎氣丸等滋補之劑則復故也此證謾爲脚氣腫之說"
+            },
+            {
+              "text": "者脚氣腫與飮腫所以不必解也蓋留飮發腫日年四十"
+            },
+            {
+              "text": "以上腎氣衰後或雖壯歲者入房過度者間有之也仲景"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "氏以桂苓朮甘湯腎氣丸爲主藥者奇哉吾徒察焉"
+            },
+            {
+              "text": "○男子年四十有餘肥盛者渴飮水惡心吐涎沫夜發熱"
+            },
+            {
+              "text": "診其脈弦而數也以爲肺水投之九味半夏湯加乾姜枳"
+            },
+            {
+              "text": "實一月而全愈"
+            },
+            {
+              "text": "○男子年五十有餘素肥盛今少瘦孟冬至季冬睡臥則"
+            },
+            {
+              "text": "驚而喘面部至足有微腫其脈右獨弦知爲飮病而用九"
+            },
+            {
+              "text": "味半夏湯兼腎氣丸三月全愈春至秋身體益輕而起居"
+            },
+            {
+              "text": "安倍常也余告之曰汝今留飮既除形容枯槁雖似有病"
+            },
+            {
+              "text": "者肌肉堅實也謾無食膏粱之味服滋補之藥而食淡薄"
+            },
+            {
+              "text": "則應得長生矣彼信用俗言不肯而多食膏粱及服滋補"
+            },
+            {
+              "text": "之藥而後濯々然肥盛也自曰吾前誤服庸醫之藥成瘦"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飮病論",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 3,
+          "context": "全愈",
+          "candidates": [],
+          "note": "第3「全愈」與「或曰」間有淡影，觀作背景。第10腫下為窄長框中橫，暫作「日」，「曰」為候選，語義未定。第11末仲景下接左頁氏。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "或曰",
+          "candidates": [],
+          "note": "第3「全愈」與「或曰」間有淡影，觀作背景。第10腫下為窄長框中橫，暫作「日」，「曰」為候選，語義未定。第11末仲景下接左頁氏。"
+        },
+        {
+          "side": "right",
+          "column": null,
+          "context": "日",
+          "candidates": [],
+          "note": "第3「全愈」與「或曰」間有淡影，觀作背景。第10腫下為窄長框中橫，暫作「日」，「曰」為候選，語義未定。第11末仲景下接左頁氏。"
+        },
+        {
+          "side": "right",
+          "column": null,
+          "context": "曰",
+          "candidates": [],
+          "note": "第3「全愈」與「或曰」間有淡影，觀作背景。第10腫下為窄長框中橫，暫作「日」，「曰」為候選，語義未定。第11末仲景下接左頁氏。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "奇",
+          "candidates": [],
+          "note": "第1欄朮為缺點形，疑與术通；「奇」字下口清。第3欄作「姜」，左第9、10膏下「粱」下部近米。末欄「後濯」之濯左水，右上似翟的兩羽，下近隹，按字形暫讀濯；保留重複符。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "姜",
+          "candidates": [],
+          "note": "第1欄朮為缺點形，疑與术通；「奇」字下口清。第3欄作「姜」，左第9、10膏下「粱」下部近米。末欄「後濯」之濯左水，右上似翟的兩羽，下近隹，按字形暫讀濯；保留重複符。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "粱",
+          "candidates": [],
+          "note": "第1欄朮為缺點形，疑與术通；「奇」字下口清。第3欄作「姜」，左第9、10膏下「粱」下部近米。末欄「後濯」之濯左水，右上似翟的兩羽，下近隹，按字形暫讀濯；保留重複符。"
+        },
+        {
+          "side": "left",
+          "column": 11,
+          "context": "後濯",
+          "candidates": [],
+          "note": "第1欄朮為缺點形，疑與术通；「奇」字下口清。第3欄作「姜」，左第9、10膏下「粱」下部近米。末欄「後濯」之濯左水，右上似翟的兩羽，下近隹，按字形暫讀濯；保留重複符。"
+        }
+      ],
+      "observations": "右面：第3「全愈」與「或曰」間有淡影，觀作背景。第10腫下為窄長框中橫，暫作「日」，「曰」為候選，語義未定。第11末仲景下接左頁氏。 左面：第1欄朮為缺點形，疑與术通；「奇」字下口清。第3欄作「姜」，左第9、10膏下「粱」下部近米。末欄「後濯」之濯左水，右上似翟的兩羽，下近隹，按字形暫讀濯；保留重複符。"
+    },
+    {
+      "image": 32,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/32",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00032.tif/full/full/0/default.jpg",
+      "label": "32",
+      "file": "32.jpg",
+      "sha256": "0696d8b2460d42058185f2865fc9e70446b6a4de37864140238760ffdfc9825c",
+      "bytes": 411812,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "人也今服良藥而得復舊也又孟冬發微腫至春洪腫治"
+            },
+            {
+              "text": "之至季春腫少減而卒然左半身不遂也醫祈百計不驗"
+            },
+            {
+              "text": "而至秋死矣愚夫不知調護而自就於死地也彼腫病未"
+            },
+            {
+              "text": "除而為半身不遂矣腫病與半身不遂其因一也以此可"
+            },
+            {
+              "text": "知余言不妄也"
+            },
+            {
+              "text": "健忘之證庸工誤為虛家者多愚按肥盛者年逾四旬後"
+            },
+            {
+              "text": "如在風雲之中而有健忘者是飲邪蒸於心肺微者也依"
+            },
+            {
+              "text": "飲病治方得效者間有之其形狀與脈證詳察而勿誤治"
+            },
+            {
+              "text": "矣"
+            },
+            {
+              "text": "或問曰肥盛者有半身不遂等之證而有或笑或哭或怒"
+            },
+            {
+              "text": "者何氣使然哉曰是亦飲邪蒸於心肺則精神恍惚而如"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飲病論／廿四／叢桂堂梓",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "飲病論",
+                "廿四",
+                "叢桂堂梓"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "無智飲邪在五臟則見五臟之形證也是皆依飲病之治"
+            },
+            {
+              "text": "方得效者間有之矣蓋如狂狀妄行獨語不休者風證也"
+            },
+            {
+              "text": "男女脇下痛引肩背或肩背引手痛亦壹或咳嗽則痛甚"
+            },
+            {
+              "text": "此證多懸飲也今依飲病之治方得全效者間有之也"
+            },
+            {
+              "text": "肥盛人年逾四旬或五六十而有手足走痛或短氣者庸"
+            },
+            {
+              "text": "工誤為痛風誤治而死者多是留飲之四肢歷節痛也依"
+            },
+            {
+              "text": "飲病之治方得全效者間有之也蓋飲邪走痛有變而為"
+            },
+            {
+              "text": "腫者其腫視發足者庸工誤為脚氣腫是所以不知脚氣"
+            },
+            {
+              "text": "腫也"
+            },
+            {
+              "text": "肥盛人年逾四旬或五六十後四肢滿閉不便其形如腫"
+            },
+            {
+              "text": "而不能行路起居不安或雖舉手不至頭上或腰痛不伸"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飲病論／廿五／叢桂堂梓",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "飲病論",
+                "廿五",
+                "叢桂堂梓"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 2,
+          "context": "祈",
+          "candidates": [],
+          "note": "第2欄「祈」候選。版心葉碼近二十四合寫，外緣有摺疊逐葉重影。全幅訓返點另層待錄。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "壹",
+          "candidates": [],
+          "note": "第3欄「壹」底部疑，依原圖保留候選。"
+        }
+      ],
+      "observations": "右面：第2欄「祈」候選。版心葉碼近二十四合寫，外緣有摺疊逐葉重影。全幅訓返點另層待錄。 左面：第3欄「壹」底部疑，依原圖保留候選。"
+    },
+    {
+      "image": 33,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/33",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00033.tif/full/full/0/default.jpg",
+      "label": "33",
+      "file": "33.jpg",
+      "sha256": "42ade05f241121ddcfd5de8c2ccc9bd0347be7609d62a7be378b4d30a8438b06",
+      "bytes": 417063,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "也庸工誤治而為廢人者多矣余所治者男子年六十有"
+            },
+            {
+              "text": "餘形肥盛四肢滿閉不便為廢人十有五年也依飲病之"
+            },
+            {
+              "text": "治方得全效矣金匱曰飲水流行歸於四肢當汗出而不"
+            },
+            {
+              "text": "汗出身體疼重是也"
+            },
+            {
+              "text": "肥盛者年逾四旬或五六十而胸痛而無他證其甚者且"
+            },
+            {
+              "text": "發夕死或胸痛數日隱々痛一時大痛死或眩暈數月後"
+            },
+            {
+              "text": "吐血死矣余先不知其病因束手見斃而今已知其因而"
+            },
+            {
+              "text": "依飲病治方得效者間有之也"
+            },
+            {
+              "text": "右數證庸工誤治而就於死地者多矣是誰誤哉唐宋以"
+            },
+            {
+              "text": "來方書以胃中之濕火為痰水火混不相分者所以飲病"
+            },
+            {
+              "text": "不心解也金匱所述四飲六證欬唾引痛或身體疼重或"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飲病論／廿五／叢桂堂梓",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "飲病論",
+                "廿五",
+                "叢桂堂梓"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "欬逆倚息短氣不得臥或心下堅築短氣惡水不欲飲或"
+            },
+            {
+              "text": "吐涎沫欲飲水或少氣身重或脇下支滿或心下悸或背"
+            },
+            {
+              "text": "寒或脇下痛引缺盆或四肢歷節痛或滿喘欬吐背痛腰"
+            },
+            {
+              "text": "痛目泣自出此諸證所歷試者多肥盛之人也"
+            },
+            {
+              "text": "或問曰肥盛者多有發癰腫者也親視之是以醫俗相傳"
+            },
+            {
+              "text": "云肥盛者間患癰以灸艾預防之可也是亦為飲病歟將"
+            },
+            {
+              "text": "風證歟經曰虛邪之中人也不通則為癰以此察之風證"
+            },
+            {
+              "text": "亦為癰腫肥盛者有發癰腫則飲亦發癰歟答曰汝所謂"
+            },
+            {
+              "text": "肥盛者發癰其因皆飲也靈樞八十一篇曰寒邪客於經"
+            },
+            {
+              "text": "絡則血泣血泣則不通不通則衛氣歸之不得復反故癰"
+            },
+            {
+              "text": "腫寒氣化為熱熱勝則腐肉腐肉則為膿仲景氏論飲謂"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飲病論／廿六／叢桂堂梓",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "飲病論",
+                "廿六",
+                "叢桂堂梓"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第5欄末「且／旦」待校。第6欄「隱」後另刻重讀點。全幅訓返點另層待錄。 左面：第1欄「築」與第3欄「缺」待校。"
+    },
+    {
+      "image": 34,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/34",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00034.tif/full/full/0/default.jpg",
+      "label": "34",
+      "file": "34.jpg",
+      "sha256": "49f0f39afa64b49ca85e33de3c7065b98ef670f48cc4e5890c0750105bca9e03",
+      "bytes": 411297,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "之水也水者其氣寒也故治飲之方中用溫藥也其飲水"
+            },
+            {
+              "text": "稽留于經絡之中則壅塞而衛氣不能行衛氣凝滯處熱"
+            },
+            {
+              "text": "而腐肉為膿也夫肥盛者有半身不遂而後發癰或先發"
+            },
+            {
+              "text": "癰而後為水腫者也肥盛者壯歲時患癰者雖間有之然"
+            },
+            {
+              "text": "什之二三而已四十以上腎氣衰後患之者多有之矣先"
+            },
+            {
+              "text": "分其飲與風若因飲則除飲水調榮衛而可得全效也方"
+            },
+            {
+              "text": "宜半夏湯兼參茋歸术之類輔佐之可也矣"
+            },
+            {
+              "text": "前所論諸證肥盛者年四十以上腎氣衰後多有之壯歲"
+            },
+            {
+              "text": "者雖無有之其人以酒為樂醉以入房過度者間有之也"
+            },
+            {
+              "text": "或曰腫脹病與半身不遂者其治方以腎氣丸青龍湯半"
+            },
+            {
+              "text": "夏湯類為主方腫疾與半身不遂者其方不異者何哉曰"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飲病論／廿六／叢桂堂梓",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "飲病論",
+                "廿六",
+                "叢桂堂梓"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "雖病狀異其因相同以此治方不異也然彼先此後此先"
+            },
+            {
+              "text": "彼後者臨變而用之者也用腎氣丸者人年逾四旬後腎"
+            },
+            {
+              "text": "氣衰而有此患腎氣盛則邪不能入也是內守之法也用"
+            },
+            {
+              "text": "半夏湯者防邪野戰法也"
+            },
+            {
+              "text": "九味半夏湯方"
+            },
+            {
+              "text": "半夏　升麻　猪苓　陳皮　澤瀉"
+            },
+            {
+              "text": "茯苓　柴胡　甘艸　生薑"
+            },
+            {
+              "text": "右水煎半夏陳皮以陳舊物為佳者飲水久留不去則為"
+            },
+            {
+              "text": "腐水去腐水以陳舊之物為奇藥也二物俱能除腐水者"
+            },
+            {
+              "text": "也猪苓茯苓澤瀉三物滲利飲水柴胡推故生新而升麻"
+            },
+            {
+              "text": "俱能令清氣從左右而上達清氣一外則濁氣隨降也甘"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "第7欄甘艸旁小字",
+              "text": "炙",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飲病論／廿七／叢桂堂梓",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "飲病論",
+                "廿七",
+                "叢桂堂梓"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第7欄「茋／芪」及「术／朮」待校。全幅訓返點另層待錄。 左面：方名與二列列名保持原欄及項目間距。第7欄「艸」原形似兩屮。"
+    },
+    {
+      "image": 35,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/35",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00035.tif/full/full/0/default.jpg",
+      "label": "35",
+      "file": "35.jpg",
+      "sha256": "99b275f38bd5599ac0e07b97844c422b62cdf24c0f009308e2763ce213780f86",
+      "bytes": 418629,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "草味諸藥不漏精液生姜除胸膈停飲是外提滲利之劑"
+            },
+            {
+              "text": "治飲之主方也仲景治飲之主方有甘遂半夏湯十棗湯"
+            },
+            {
+              "text": "大小青龍湯之類皆重劑也庸醫不可輕用者也於是余"
+            },
+            {
+              "text": "竊制一方而所歷試大有驗也名曰九味半夏湯也"
+            },
+            {
+              "text": "或謂余曰今日卒中風者旦發而夕死夕發而旦死多無"
+            },
+            {
+              "text": "治方也吾子是為飲病別有治方乎又肥盛者雖有溢飲"
+            },
+            {
+              "text": "壯歲時不覺之年四旬以上腎氣衰之後發腫或發半身"
+            },
+            {
+              "text": "不遂等疾者聞治方是皆已發之治方也類中風病先賢"
+            },
+            {
+              "text": "有未發治方此曰預防之方也吾子所謂飲病者有遠慮"
+            },
+            {
+              "text": "預防之者免於急蒸於心肺內攻之患歟何不言未發之"
+            },
+            {
+              "text": "方哉雖預防之無其效歟曰吾前論遺之預防之方飲家"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飲病論／廿七／叢桂堂梓",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "飲病論",
+                "廿七",
+                "叢桂堂梓"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "急務也今通稱曰卒中風者溢飲內攻者也卒然發之者"
+            },
+            {
+              "text": "眞氣實則間有復氣者也渉氣虛者多不治也預防之外"
+            },
+            {
+              "text": "無術也余從幼年至三十而形瘦三十有餘而肥至四十"
+            },
+            {
+              "text": "有餘益盛當此時遠行足懈怠或酸痛欲疾行氣急而不"
+            },
+            {
+              "text": "能行睡臥則鼾睡響驚於隣家也於是始知飲因欲預防"
+            },
+            {
+              "text": "之而三折肱考之而朝食稀粥暮食單赤小豆"
+            },
+            {
+              "text": "食淡味不食膏粱味用以九味半夏湯數月而肥盛半減"
+            },
+            {
+              "text": "身體計之減三十斤而後身體輕無鼾睡能熟睡而行健"
+            },
+            {
+              "text": "倍壯歲之時也以來告肥盛之人以此方也信於余言而"
+            },
+            {
+              "text": "朝食稀粥暮食單赤小豆斷膏粱之味者肥盛變成瘦人"
+            },
+            {
+              "text": "身體輕而無疾病者間有之也此方余自用之所有驗者"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "第6欄欄末雙行小字",
+              "text": "和米而用／之其功少",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "和米而用",
+                "之其功少"
+              ]
+            },
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飲病論／廿八／叢桂堂梓",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "飲病論",
+                "廿八",
+                "叢桂堂梓"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 2,
+          "context": "渉",
+          "candidates": [],
+          "note": "第2欄「渉」疑「涉」。第5欄「隣」按圖。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "隣",
+          "candidates": [],
+          "note": "第2欄「渉」疑「涉」。第5欄「隣」按圖。"
+        }
+      ],
+      "observations": "右面：第1欄「草味」承上幅左末「甘」。「姜」不逕改「薑」。第10欄「蒸」待校。全幅訓返點另層待錄。 左面：第2欄「渉」疑「涉」。第5欄「隣」按圖。"
+    },
+    {
+      "image": 36,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/36",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00036.tif/full/full/0/default.jpg",
+      "label": "36",
+      "file": "36.jpg",
+      "sha256": "cf938b989b38e52186b7f34fc18d7312eb136755f69995989c4ccb509b61253f",
+      "bytes": 386426,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "afterword-and-colophon",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "也今以赤小豆代米食之者溢飲預防之奇方也又肥盛"
+            },
+            {
+              "text": "者年逾四旬後從臍下至臍傍築々然有微動氣者責脈"
+            },
+            {
+              "text": "微者也當此時半夏湯兼以桂苓术甘湯桂枝加桂湯腎"
+            },
+            {
+              "text": "氣丸者是皆飲家之奇方也吾徒勿忽之也"
+            },
+            {
+              "text": "古者飲食連言之也唐宋以來雖有傷食停食等之說至"
+            },
+            {
+              "text": "其論飲以酒濕而無水飲之說後世即置不講也蓋食者"
+            },
+            {
+              "text": "雖不以膏粱過則為病飲亦然矣雖不以酒過則水飲亦"
+            },
+            {
+              "text": "為病也故經曰渴暴多飲而溢入肌皮腸胃之外又曰其"
+            },
+            {
+              "text": "本在腎其末在肺皆積水也是水飲之停滯有腸胃內外"
+            },
+            {
+              "text": "之義也故仲景氏於金匱雖發其意後世知之者鮮矣余"
+            },
+            {
+              "text": "有多年所歷試者略記之示於吾家童蒙云時寶曆三季"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飲病論／廿八／叢桂堂梓",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "飲病論",
+                "廿八",
+                "叢桂堂梓"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "癸酉冬十月東都朴菴石崎淳古玄素識"
+            },
+            {
+              "text": "皇和寶曆四甲戌年孟春穀旦"
+            },
+            {
+              "text": "江戶日本橋通壹町目"
+            },
+            {
+              "text": "書肆叢桂堂　梅村宗五郎繡梓"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飲病論／廿九／叢桂堂梓",
+              "column_anchor": 4,
+              "color": "unknown",
+              "lines": [
+                "飲病論",
+                "廿九",
+                "叢桂堂梓"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第2欄「築」後刻同字重讀點，末「責脈」兩字參見放大。全幅訓返點另層待錄。 左面：右起第1有字欄為跋末署記，續「寶曆三季」，合1753。刊署列在左側，寶曆四甲戌合1754。最左有字欄前後兩組文字各據實存於同一欄。"
+    },
+    {
+      "image": 37,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/37",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00037.tif/full/full/0/default.jpg",
+      "label": "37",
+      "file": "37.jpg",
+      "sha256": "579e09e15b703c6776a656dc6d82c68d6eb3d8777b9fc48dfd7c3e472524e465",
+      "bytes": 345647,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "subsequent-bookseller-advertisement",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "飲病論／廿九／叢桂堂梓",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "飲病論",
+                "廿九",
+                "叢桂堂梓"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "天明九年己酉正月吉日"
+            },
+            {
+              "text": "皇都書林"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "上格右一",
+              "text": "淇園詩話",
+              "column_anchor": 2,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "上格右一署",
+              "text": "皆川先生著",
+              "column_anchor": 2,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "上格右二",
+              "text": "葛原詩話",
+              "column_anchor": 2,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "上格右二署",
+              "text": "六如上人著",
+              "column_anchor": 2,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "上格右二小字",
+              "text": "□□詩作ニ便□／可□□有り",
+              "column_anchor": 2,
+              "color": "unknown",
+              "lines": [
+                "□□詩作ニ便□",
+                "可□□有り"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "上格右三",
+              "text": "春方帖",
+              "column_anchor": 2,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "上格右三小字",
+              "text": "平安諸名家／書畫正面摺",
+              "column_anchor": 2,
+              "color": "unknown",
+              "lines": [
+                "平安諸名家",
+                "書畫正面摺"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "上格右四",
+              "text": "道得問答",
+              "column_anchor": 2,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "上格右四小字",
+              "text": "教訓之書／全部壹冊",
+              "column_anchor": 2,
+              "color": "unknown",
+              "lines": [
+                "教訓之書",
+                "全部壹冊"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "下格右一",
+              "text": "文語解",
+              "column_anchor": 2,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "下格右一署",
+              "text": "大典禪師著",
+              "column_anchor": 2,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "下格右二",
+              "text": "皇都名勝詩集",
+              "column_anchor": 2,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "下格右二小字",
+              "text": "小本一冊",
+              "column_anchor": 2,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "下格右三",
+              "text": "詠物百首",
+              "column_anchor": 2,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "下格右三小字",
+              "text": "大田玩鷗先生著／□□□□□□□□",
+              "column_anchor": 2,
+              "color": "unknown",
+              "lines": [
+                "大田玩鷗先生著",
+                "□□□□□□□□"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "下格右四",
+              "text": "世範",
+              "column_anchor": 2,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "下格右四小字",
+              "text": "全部三冊",
+              "column_anchor": 2,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "廣告左下地址",
+              "text": "京師寺町御池上ル町",
+              "column_anchor": 2,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "廣告左下刊署",
+              "text": "菱屋孫兵衞板",
+              "column_anchor": 2,
+              "color": "unknown"
+            },
+            {
+              "type": "seal",
+              "location": "欄外朱印及登記",
+              "text": "国文学研究資料館／201823／26.3.6",
+              "column_anchor": 2,
+              "color": "red",
+              "lines": [
+                "国文学研究資料館",
+                "201823",
+                "26.3.6"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 2,
+          "context": "上格右二小字",
+          "candidates": [],
+          "note": "此處墨跡或構件不清，以□保留未定字。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "下格右三小字",
+          "candidates": [],
+          "note": "此處墨跡或構件不清，以□保留未定字。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "",
+          "candidates": [],
+          "note": "書肆廣告天明九年合1789。門牌草刻「京師寺町御池上ル町」暫讀；「ル」形亦近假名草體。廣告上下兩格分欄讀，小字混用和文。第2及第7項小字有連筆，未定字群保留；方框數約略。"
+        }
+      ],
+      "observations": "右面：欄界尚在，正文空白，淡透墨不復錄。 左面：書肆廣告天明九年合1789。門牌草刻「京師寺町御池上ル町」暫讀；「ル」形亦近假名草體。廣告上下兩格分欄讀，小字混用和文。第2及第7項小字有連筆，未定字群保留；方框數約略。"
+    },
+    {
+      "image": 38,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/200022060/canvas/38",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/200022060/v4/NIIP/049-0280/049-0280-00038.tif/full/full/0/default.jpg",
+      "label": "38",
+      "file": "38.jpg",
+      "sha256": "ff0e333a6138b31f8852da5ee358bad3e78634e81f9a58c9b23743413035c00d",
+      "bytes": 291318,
+      "native_width": 6608,
+      "native_height": 4618,
+      "content_role": "binding-or-copy-annotation",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：原冊後封，綠灰面、縫線可見，無文字。"
+    }
+  ]
+}
