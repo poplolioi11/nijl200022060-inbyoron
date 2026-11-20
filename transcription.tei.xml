@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -336,7 +336,7 @@
               <seg type="diplomatic-text">飲病論序</seg>
             </ab>
             <ab type="column" n="2" xml:id="f05-l-c02">
-              <seg type="diplomatic-text">醫之經者猶經緯之經於布</seg>
+              <seg type="diplomatic-text">醫之經方猶經緯之經於布</seg>
             </ab>
             <ab type="column" n="3" xml:id="f05-l-c03">
               <seg type="diplomatic-text">帛者機杼之不可偏廢也且經</seg>
@@ -396,7 +396,7 @@
               <seg type="diplomatic-text">于今其□□古者未必知□□</seg>
             </ab>
             <ab type="column" n="6" xml:id="f06-r-c06">
-              <seg type="diplomatic-text">□□奪□□存古人之偽也竟</seg>
+              <seg type="diplomatic-text">□□奪□□存古人之病中□</seg>
             </ab>
             <ab type="column" n="7" xml:id="f06-r-c07">
               <seg type="diplomatic-text">一□之後而□近十年□切云</seg>
@@ -411,7 +411,7 @@
           </div>
           <div type="page-face" n="left">
             <ab type="column" n="1" xml:id="f06-l-c01">
-              <seg type="diplomatic-text">而己操劑有療其□□乎曰</seg>
+              <seg type="diplomatic-text">而已操劑有療其□□乎曰</seg>
             </ab>
             <ab type="column" n="2" xml:id="f06-l-c02">
               <seg type="diplomatic-text">經□□然獨足醫巧耳□經矣</seg>
@@ -420,7 +420,7 @@
               <seg type="diplomatic-text">雖是□學□而學□未達莫信</seg>
             </ab>
             <ab type="column" n="4" xml:id="f06-l-c04">
-              <seg type="diplomatic-text">□□執□□拙于治方而不□治</seg>
+              <seg type="diplomatic-text">立說執□□拙于治方而不□治</seg>
             </ab>
             <ab type="column" n="5" xml:id="f06-l-c05">
               <seg type="diplomatic-text">可□據□□□□□言之而安乎</seg>
@@ -553,10 +553,10 @@
           </div>
           <div type="page-face" n="left">
             <ab type="column" n="1" xml:id="f07-l-c01">
-              <seg type="diplomatic-text">古而於時久余之說□□之勸</seg>
+              <seg type="diplomatic-text">古而於時久余之說得古之勸</seg>
             </ab>
             <ab type="column" n="2" xml:id="f07-l-c02">
-              <seg type="diplomatic-text">于學及未能讀論一□□彼傳□</seg>
+              <seg type="diplomatic-text">于學固未能讀論一□□彼傳□</seg>
             </ab>
             <ab type="column" n="3" xml:id="f07-l-c03">
               <seg type="diplomatic-text">之徒□□鉗口然吾不以為然者</seg>
@@ -673,7 +673,7 @@
         <div n="8" type="scan" subtype="preface-and-opening">
           <div type="page-face" n="right">
             <ab type="column" n="1" xml:id="f08-r-c01">
-              <seg type="diplomatic-text">延年彼偏病者吾仍摭序云</seg>
+              <seg type="diplomatic-text">延年彼偏頗者乎仍為序之</seg>
             </ab>
             <ab type="column" n="2" xml:id="f08-r-c02">
               <seg type="diplomatic-text">寶曆四甲戌冬十月</seg>
@@ -1202,7 +1202,7 @@
               <seg type="diplomatic-text">飲病而投之以青龍湯其腫減大半而臍下至臍傍築</seg>
             </ab>
             <ab type="column" n="10" xml:id="f13-l-c10">
-              <seg type="diplomatic-text">然有動氣是責脈之微者也兼以桂苓朮甘湯經一旬而</seg>
+              <seg type="diplomatic-text">然有動氣是責脈之微者也兼以桂苓朮甘湯經三旬而</seg>
             </ab>
             <ab type="column" n="11" xml:id="f13-l-c11">
               <seg type="diplomatic-text">全愈也或曰今患腫脹者腹脹肢滿及陰囊陰莖俱腫者</seg>
@@ -1295,13 +1295,13 @@
               <seg type="diplomatic-text">之無方也余所謂腫脹病者其因飲而壯歲時不覺之五</seg>
             </ab>
             <ab type="column" n="5" xml:id="f14-l-c05">
-              <seg type="diplomatic-text">入四十後腎氣衰榮衛微而三焦不能御閉塞而為腫脹</seg>
+              <seg type="diplomatic-text">八四十後腎氣衰榮衛微而三焦不能御閉塞而為腫脹</seg>
             </ab>
             <ab type="column" n="6" xml:id="f14-l-c06">
               <seg type="diplomatic-text">也當此時欲補腎則腫滿急也經曰急則治其標以此飲</seg>
             </ab>
             <ab type="column" n="7" xml:id="f14-l-c07">
-              <seg type="diplomatic-text">水減大半後補腎則無漬水患得全效者也今有治腫病</seg>
+              <seg type="diplomatic-text">水減大半後補腎則無浸水患得全效者也今有治腫病</seg>
             </ab>
             <ab type="column" n="8" xml:id="f14-l-c08">
               <seg type="diplomatic-text">者其方以菽麥代米令之食藥物細吹咀而不使之知而</seg>

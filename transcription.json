@@ -18,7 +18,7 @@
     "manifest_url": "https://kokusho.nijl.ac.jp/biblio/200022060/manifest",
     "manifest_sha256": "a8a61ed77dfe83b110f781a706c4226ee49dd7b85c804b9095dbada1df8f8107",
     "record_id": "NIJL200022060",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": [
       3,
       4,
@@ -56,9 +56,9 @@
       36,
       37
     ],
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "飲病論（1754 年刊記、1789 年書肆廣告，國文學研究資料館 049-0280） / Inbyōron [Treatise on Inbyō and clinical cases]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -167,7 +167,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "preface-and-opening",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -243,7 +243,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "preface-and-opening",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -372,7 +372,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "preface-and-opening",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -398,7 +398,7 @@
               "text": "飲病論序"
             },
             {
-              "text": "醫之經者猶經緯之經於布"
+              "text": "醫之經方猶經緯之經於布"
             },
             {
               "text": "帛者機杼之不可偏廢也且經"
@@ -466,7 +466,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "preface-and-opening",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -487,7 +487,7 @@
               "text": "于今其□□古者未必知□□"
             },
             {
-              "text": "□□奪□□存古人之偽也竟"
+              "text": "□□奪□□存古人之病中□"
             },
             {
               "text": "一□之後而□近十年□切云"
@@ -510,7 +510,7 @@
           "side": "left",
           "columns": [
             {
-              "text": "而己操劑有療其□□乎曰"
+              "text": "而已操劑有療其□□乎曰"
             },
             {
               "text": "經□□然獨足醫巧耳□經矣"
@@ -519,7 +519,7 @@
               "text": "雖是□學□而學□未達莫信"
             },
             {
-              "text": "□□執□□拙于治方而不□治"
+              "text": "立說執□□拙于治方而不□治"
             },
             {
               "text": "可□據□□□□□言之而安乎"
@@ -693,7 +693,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "preface-and-opening",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -737,10 +737,10 @@
           "side": "left",
           "columns": [
             {
-              "text": "古而於時久余之說□□之勸"
+              "text": "古而於時久余之說得古之勸"
             },
             {
-              "text": "于學及未能讀論一□□彼傳□"
+              "text": "于學固未能讀論一□□彼傳□"
             },
             {
               "text": "之徒□□鉗口然吾不以為然者"
@@ -934,13 +934,13 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "preface-and-opening",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
           "columns": [
             {
-              "text": "延年彼偏病者吾仍摭序云"
+              "text": "延年彼偏頗者乎仍為序之"
             },
             {
               "text": "寶曆四甲戌冬十月"
@@ -1048,7 +1048,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1177,7 +1177,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1306,7 +1306,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1427,7 +1427,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1595,7 +1595,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1724,7 +1724,7 @@
               "text": "飲病而投之以青龍湯其腫減大半而臍下至臍傍築"
             },
             {
-              "text": "然有動氣是責脈之微者也兼以桂苓朮甘湯經一旬而"
+              "text": "然有動氣是責脈之微者也兼以桂苓朮甘湯經三旬而"
             },
             {
               "text": "全愈也或曰今患腫脹者腹脹肢滿及陰囊陰莖俱腫者"
@@ -1784,7 +1784,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1863,13 +1863,13 @@
               "text": "之無方也余所謂腫脹病者其因飲而壯歲時不覺之五"
             },
             {
-              "text": "入四十後腎氣衰榮衛微而三焦不能御閉塞而為腫脹"
+              "text": "八四十後腎氣衰榮衛微而三焦不能御閉塞而為腫脹"
             },
             {
               "text": "也當此時欲補腎則腫滿急也經曰急則治其標以此飲"
             },
             {
-              "text": "水減大半後補腎則無漬水患得全效者也今有治腫病"
+              "text": "水減大半後補腎則無浸水患得全效者也今有治腫病"
             },
             {
               "text": "者其方以菽麥代米令之食藥物細吹咀而不使之知而"
@@ -1952,7 +1952,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2110,7 +2110,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2264,7 +2264,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2446,7 +2446,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2586,7 +2586,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2733,7 +2733,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2887,7 +2887,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3034,7 +3034,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3192,7 +3192,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3303,7 +3303,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3429,7 +3429,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3565,7 +3565,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3726,7 +3726,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3838,7 +3838,7 @@
       "native_height": 4618,
       "content_role": "author-text",
       "source_link_scope": "catalogue-only",
-      "state": "initial-read",
+      "state": "transcribed-with-editorial-note-omission",
       "sides": [
         {
           "side": "right",
@@ -3958,7 +3958,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4069,7 +4069,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4180,7 +4180,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4348,7 +4348,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4484,7 +4484,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4605,7 +4605,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4733,7 +4733,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4880,7 +4880,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "afterword-and-colophon",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -4980,7 +4980,7 @@
       "native_width": 6608,
       "native_height": 4618,
       "content_role": "subsequent-bookseller-advertisement",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",

@@ -4,11 +4,11 @@
 
 Inbyōron is an Edo-period Literary Chinese collection of medical discussions and case accounts by Ishizaki Junko (Bokuan). It distinguishes historical categories of illness, including inbyō and chūfū, and describes individual illness histories, consultations and outcomes. This National Institute of Japanese Literature copy has an Edo colophon dated 1754 and a Kyoto bookseller advertisement dated 1789.
 
-## V0.1.0
+## V0.2.0
 
-全冊 38 幅皆列入目錄，錄入序、正文、跋、刊記及書肆廣告，省錄一則小注。部分草刻序和訓點仍待辨讀。本版為 AI 輔助初錄。未辨字保留疑號。
+全冊 38 幅皆列入目錄，錄入序、正文、跋、刊記及書肆廣告，省錄一則小注。部分草刻序和訓點仍待辨讀。比對未見初稿的本機 OCR 候選後，回圖裁定採用 10 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-The edition inventories all 38 scans, covering the prefaces, main text, afterword, colophon and bookseller advertisement with one small note omitted. Some cursive characters and reading marks remain unresolved. This is an AI-assisted initial transcription with uncertain readings marked.
+The edition inventories all 38 scans, covering the prefaces, main text, afterword, colophon and bookseller advertisement with one small note omitted. Some cursive characters and reading marks remain unresolved. Independent local OCR candidates were compared with the initial transcription. Targeted source-image review adopted 10 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 
